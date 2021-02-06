@@ -1,0 +1,641 @@
+,id,number,state,userId,userlogin,username,labels,createTimestamp,updateTimestamp,finishTimestamp,type
+0,5376141,I37899,open,5630689,zhanghui_china,张辉,[],2021-02-06T13:52:28+08:00,2021-02-06T13:52:29+08:00,,Bug-Report
+1,5375293,I377LP,open,7342144,cathwong,cathwong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}, {'id': 58021462, 'name': 'kind/task', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/task', 'created_at': '2020-03-19T16:23:25+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-02-06T06:34:13+08:00,2021-02-06T07:00:21+08:00,,Task-Tracking
+2,5375176,I377IG,open,7641490,lixiachen,lixiachen,[],2021-02-06T00:47:52+08:00,2021-02-06T01:09:12+08:00,,Task-Tracking
+3,5369117,I372U5,open,8036781,lizhenglong1992,lizhenglong1992,[],2021-02-05T16:51:44+08:00,2021-02-05T16:53:46+08:00,,Task-Tracking
+4,5368994,I372QQ,open,6575182,yangjie159,yangjie159,[],2021-02-05T16:36:17+08:00,2021-02-05T16:38:30+08:00,,Requirement
+5,5368440,I372BC,open,8383724,ydwu4,ydwu4,[],2021-02-05T16:05:29+08:00,2021-02-05T16:06:10+08:00,,Requirement
+6,5368333,I3728D,open,7353905,wangchengyuan,wangchengyuan,[],2021-02-05T16:03:16+08:00,2021-02-05T16:07:25+08:00,,Task-Tracking
+7,5367716,I371R8,open,6557911,echo_hua,echo_hua,[],2021-02-05T15:14:36+08:00,2021-02-05T15:16:46+08:00,,Bug-Report
+8,5367596,I371NW,open,7914510,sishuikang,HuKang,[],2021-02-05T14:58:33+08:00,2021-02-05T14:59:09+08:00,,Task-Tracking
+9,5357710,I36U1A,open,7541093,zhang_yi2020,zhangyi,[],2021-02-05T11:21:42+08:00,2021-02-05T11:24:03+08:00,,Bug-Report
+10,5356795,I36TBV,open,7845873,ZJUTER0126,好名字可以让你的朋友更容易记住你,[],2021-02-05T11:01:06+08:00,2021-02-05T11:05:10+08:00,,Requirement
+11,5354852,I36RTW,open,6575280,zhoufeng54,zhoufeng,[],2021-02-04T22:57:50+08:00,2021-02-04T22:58:07+08:00,,Empty-Template
+12,5354710,I36RPY,open,6574854,jjfeing,jjfeing,[],2021-02-04T21:46:20+08:00,2021-02-04T21:47:50+08:00,,Empty-Template
+13,5354038,I36R7A,open,7929819,gongdaguo,gongdaguo,[],2021-02-04T20:34:19+08:00,2021-02-04T20:34:42+08:00,,Bug-Report
+14,5353944,I36R4O,open,7873411,YeFeng_24,yefeng,[],2021-02-04T20:02:23+08:00,2021-02-04T20:05:15+08:00,,Bug-Report
+15,5351945,I36PL5,open,7353905,wangchengyuan,wangchengyuan,[],2021-02-04T19:25:56+08:00,2021-02-04T19:25:58+08:00,,Task-Tracking
+16,5351941,I36PL1,open,7353905,wangchengyuan,wangchengyuan,[],2021-02-04T19:24:08+08:00,2021-02-04T19:25:04+08:00,,Task-Tracking
+17,5351938,I36PKY,open,7353905,wangchengyuan,wangchengyuan,[],2021-02-04T19:22:53+08:00,2021-02-04T19:23:19+08:00,,Task-Tracking
+18,5351872,I36PJ4,open,8359095,zuochuanyong,zuochuanyong,[],2021-02-04T19:04:27+08:00,2021-02-04T19:05:57+08:00,,RFC
+19,5349953,I36O1T,open,7353920,hangangqiang,hangq,[],2021-02-04T18:20:16+08:00,2021-02-04T18:21:50+08:00,,RFC
+20,5349085,I36NDP,open,7889971,lzkcode,liuzhongkai,[],2021-02-04T18:02:06+08:00,2021-02-04T18:02:43+08:00,,Bug-Report
+21,5334333,I36BZX,open,7854338,zhujingxuan,zhujingxuan,[],2021-02-04T16:13:51+08:00,2021-02-04T16:13:54+08:00,,Task-Tracking
+22,5334288,I36BYO,open,7541001,wu_tian_yu9,吴天瑜,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}]",2021-02-04T16:09:43+08:00,2021-02-04T16:09:43+08:00,,Bug-Report
+23,5331089,I369HT,open,6517937,tronzhang,TronZhang,[],2021-02-04T15:23:40+08:00,2021-02-04T15:25:25+08:00,,Bug-Report
+24,5331077,I369HH,open,6557911,echo_hua,echo_hua,[],2021-02-04T15:23:33+08:00,2021-02-05T09:31:51+08:00,,Bug-Report
+25,5330584,I3693S,open,7342588,wangmin0104,wangmin0104,[],2021-02-04T15:16:30+08:00,2021-02-04T17:10:00+08:00,,Task-Tracking
+26,5329972,I368MS,open,7541001,wu_tian_yu9,吴天瑜,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2021-02-04T15:11:02+08:00,2021-02-04T19:51:20+08:00,,Bug-Report
+27,5326013,I365KT,open,5610790,yyyzzzhao,yyyzzzhao,[],2021-02-04T14:02:51+08:00,2021-02-04T14:02:53+08:00,,Bug-Report
+28,5322366,I362RI,open,7353920,hangangqiang,hangq,[],2021-02-04T10:35:03+08:00,2021-02-04T10:35:33+08:00,,Bug-Report
+29,5322278,I362P2,open,7873411,YeFeng_24,yefeng,[],2021-02-04T10:25:05+08:00,2021-02-04T21:05:54+08:00,,Bug-Report
+30,5320648,I361FS,open,2151589,shuzigood,吴书全,[],2021-02-03T21:30:15+08:00,2021-02-04T15:11:15+08:00,,Bug-Report
+31,5296291,I35IN7,open,6574895,qujianwei,qujianwei,[],2021-02-03T17:57:38+08:00,2021-02-03T18:06:31+08:00,,Bug-Report
+32,5289256,I35D7S,open,449787,louie5,louie171,[],2021-02-03T16:03:44+08:00,2021-02-03T16:04:05+08:00,,Requirement
+33,5288007,I35C93,open,5708230,louisncu,liujiahan,[],2021-02-03T15:09:26+08:00,2021-02-05T17:51:32+08:00,,Requirement
+34,5286962,I35BG2,open,7342633,sl_wang,wangshuangling,[],2021-02-03T14:26:20+08:00,2021-02-03T14:26:22+08:00,,Bug-Report
+35,5284886,I359UE,open,8629710,fireinthehole1024,fireinthehole1024,[],2021-02-03T09:46:36+08:00,2021-02-03T09:51:26+08:00,,Empty-Template
+36,5282755,I35877,open,5630689,zhanghui_china,张辉,[],2021-02-03T00:04:30+08:00,2021-02-05T11:21:09+08:00,,Bug-Report
+37,5282352,I357W0,open,7541001,wu_tian_yu9,吴天瑜,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2021-02-02T20:44:19+08:00,2021-02-02T20:44:20+08:00,,Bug-Report
+38,5278967,I3559Z,open,7342972,wtcheng,wtcheng,[],2021-02-02T17:43:40+08:00,2021-02-02T17:49:08+08:00,,Task-Tracking
+39,5278826,I35562,open,6578500,laiyongqiang,laiyongqiang,[],2021-02-02T17:34:27+08:00,2021-02-03T16:05:08+08:00,,RFC
+40,5271593,I34ZL5,open,7698033,zsk423200,周胜凯,[],2021-02-02T15:33:09+08:00,2021-02-02T15:33:44+08:00,,Bug-Report
+41,5271575,I34ZKN,open,6584634,wang_shaocong,wangshaocong,[],2021-02-02T15:32:17+08:00,2021-02-02T15:36:50+08:00,,Bug-Report
+42,5269072,I34XN4,open,7889971,lzkcode,liuzhongkai,[],2021-02-02T14:08:52+08:00,2021-02-02T14:09:11+08:00,,Bug-Report
+43,5267866,I34WPM,open,7808815,yepei6,yepei6,[],2021-02-02T11:11:57+08:00,2021-02-02T11:12:47+08:00,,RFC
+44,5266773,I34VV9,open,7672178,shenwei41,shenwei41,[],2021-02-02T09:52:41+08:00,2021-02-02T09:53:23+08:00,,Task-Tracking
+45,5266143,I34VDR,open,7641490,lixiachen,lixiachen,[],2021-02-02T06:19:21+08:00,2021-02-02T06:19:43+08:00,,Task-Tracking
+46,5261966,I34S5Q,open,7865710,luchengthu,luchengthu,[],2021-02-01T21:58:09+08:00,2021-02-01T21:58:11+08:00,,RFC
+47,5261913,I34S49,open,7865710,luchengthu,luchengthu,[],2021-02-01T21:53:53+08:00,2021-02-01T21:53:55+08:00,,RFC
+48,5261902,I34S3Y,open,7865710,luchengthu,luchengthu,[],2021-02-01T21:51:58+08:00,2021-02-01T21:51:59+08:00,,RFC
+49,5261891,I34S3N,open,7865710,luchengthu,luchengthu,[],2021-02-01T21:49:24+08:00,2021-02-01T21:49:25+08:00,,RFC
+50,5255213,I34MY5,open,8234752,moonblue333,moonblue333,[],2021-02-01T17:08:46+08:00,2021-02-01T17:08:47+08:00,,Requirement
+51,5255165,I34MWT,open,8234752,moonblue333,moonblue333,[],2021-02-01T17:04:51+08:00,2021-02-01T17:04:52+08:00,,Empty-Template
+52,5255128,I34MVS,open,8234752,moonblue333,moonblue333,[],2021-02-01T17:00:33+08:00,2021-02-01T17:00:35+08:00,,Empty-Template
+53,5255052,I34MTO,open,8234752,moonblue333,moonblue333,[],2021-02-01T16:55:28+08:00,2021-02-01T16:55:29+08:00,,Empty-Template
+54,5228934,I342O6,open,7628316,gongw03,gongwei,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2021-01-31T13:50:28+08:00,2021-02-02T08:55:44+08:00,,Bug-Report
+55,5081953,I30X9D,open,7501862,luoyang42,luoyang,[],2021-01-30T18:08:40+08:00,2021-01-30T18:08:55+08:00,,Bug-Report
+56,4961909,I2YCMT,open,6575400,yanghaitao1,yanghaitao,[],2021-01-30T11:47:50+08:00,2021-01-30T15:59:21+08:00,,Bug-Report
+57,4959787,I2YAZV,open,6584642,yuzhenhua666,于振华,[],2021-01-30T11:27:43+08:00,2021-02-01T10:10:45+08:00,,RFC
+58,4956185,I2Y87T,open,6574895,qujianwei,qujianwei,[],2021-01-30T10:56:58+08:00,2021-01-30T11:37:57+08:00,,Bug-Report
+59,4946136,I2Y0GO,open,6575338,xiefangqi,xiefangqi,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-01-30T09:56:15+08:00,2021-01-30T09:56:48+08:00,,Bug-Report
+60,4944939,I2XZJF,open,6575395,xulei2020,xulei,[],2021-01-30T09:50:37+08:00,2021-02-02T19:07:33+08:00,,Task-Tracking
+61,4941812,I2XX4K,open,7379874,ddwsky,wandongdong,[],2021-01-30T09:37:23+08:00,2021-01-30T09:37:24+08:00,,RFC
+62,4932365,I2XPU5,open,8055865,junjiecheng,junjie,[],2021-01-30T09:17:40+08:00,2021-02-05T14:06:38+08:00,,Bug-Report
+63,4807959,I2V1UF,open,7369218,alashkari,alashkari,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-01-29T04:07:30+08:00,2021-01-29T06:25:29+08:00,,RFC
+64,4803546,I2UYFU,open,7342144,cathwong,cathwong,"[{'id': 58024577, 'name': 'comp/operator', 'color': 'ae6337', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/operator', 'created_at': '2020-03-19T16:42:52+08:00', 'updated_at': '2021-02-03T14:41:15+08:00'}, {'id': 58021462, 'name': 'kind/task', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/task', 'created_at': '2020-03-19T16:23:25+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-01-29T03:54:24+08:00,2021-01-29T04:13:25+08:00,,Task-Tracking
+65,4728655,I2TCNJ,open,6575400,yanghaitao1,yanghaitao,[],2021-01-28T20:53:52+08:00,2021-01-28T20:54:21+08:00,,Bug-Report
+66,4718060,I2T4H8,open,1054271,zhouyifengCode,wqx,[],2021-01-28T18:52:20+08:00,2021-01-28T18:52:21+08:00,,Bug-Report
+67,4683118,I2SDIM,open,6557911,echo_hua,echo_hua,[],2021-01-28T16:15:29+08:00,2021-01-28T16:15:31+08:00,,Bug-Report
+68,4646134,I2RKZA,open,5630689,zhanghui_china,张辉,[],2021-01-28T07:36:50+08:00,2021-01-28T07:36:51+08:00,,Bug-Report
+69,4536430,I2P8BY,open,6575395,xulei2020,xulei,[],2021-01-27T15:48:12+08:00,2021-01-29T10:05:37+08:00,,Bug-Report
+70,4535247,I2P7F3,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024323, 'name': 'comp/api', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/api', 'created_at': '2020-03-19T16:40:35+08:00', 'updated_at': '2021-01-27T14:17:44+08:00'}, {'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022173, 'name': 'device/cpu', 'color': '1dbaae', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/cpu', 'created_at': '2020-03-19T16:26:44+08:00', 'updated_at': '2021-02-05T16:40:48+08:00'}]",2021-01-27T14:17:44+08:00,2021-02-02T11:40:09+08:00,,RFC
+71,4521284,I2OWN8,open,7823966,TFbunny,34bunny,[],2021-01-27T05:42:24+08:00,2021-01-27T05:42:37+08:00,,Task-Tracking
+72,4508560,I2OMTS,open,7672178,shenwei41,shenwei41,[],2021-01-27T02:26:45+08:00,2021-01-27T02:26:47+08:00,,Task-Tracking
+73,4506877,I2OLJ1,open,7672178,shenwei41,shenwei41,[],2021-01-27T02:03:16+08:00,2021-01-27T02:03:37+08:00,,Task-Tracking
+74,4474206,I2NWBI,open,6584654,yoonlee666,yoonlee666,[],2021-01-26T14:59:36+08:00,2021-01-26T14:59:37+08:00,,RFC
+75,4472253,I2NUT9,open,5644189,c_34,chenhaozhe,"[{'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}]",2021-01-26T11:02:33+08:00,2021-02-03T15:49:44+08:00,,Task-Tracking
+76,4399417,I2MAM1,open,8207914,lgarithm,lgarithm,[],2021-01-25T20:55:12+08:00,2021-01-26T09:29:52+08:00,,Bug-Report
+77,4399409,I2MALT,open,8207914,lgarithm,lgarithm,[],2021-01-25T20:50:48+08:00,2021-01-25T20:52:18+08:00,,Empty-Template
+78,4398643,I2MA0J,open,8357181,he-botao,何博韬,[],2021-01-25T18:29:22+08:00,2021-01-25T18:42:55+08:00,,Requirement
+79,4395783,I2M7T3,open,7353915,yangruoqi713,yangruoqi713,[],2021-01-25T16:31:47+08:00,2021-02-04T10:56:02+08:00,,Task-Tracking
+80,4391121,I2M47L,open,7353920,hangangqiang,hangq,[],2021-01-25T10:00:24+08:00,2021-02-05T17:15:49+08:00,,RFC
+81,4037151,I2EJ33,open,7833745,zhaochao27,atlas_zc,[],2021-01-23T17:18:59+08:00,2021-01-23T17:19:00+08:00,,Bug-Report
+82,4026059,I2EAIZ,open,7922356,suhaibo,suhaibo,[],2021-01-21T21:04:33+08:00,2021-01-21T21:04:35+08:00,,Bug-Report
+83,4024494,I2E9BI,open,7416383,leozhujiang,Leo,[],2021-01-21T17:09:54+08:00,2021-01-21T17:09:55+08:00,,Requirement
+84,4024234,I2E94A,open,6575280,zhoufeng54,zhoufeng,[],2021-01-21T16:46:26+08:00,2021-01-27T14:45:35+08:00,,Empty-Template
+85,4023415,I2E8HJ,open,8540409,hx358031364,hx358031364,[],2021-01-21T15:27:46+08:00,2021-01-21T15:27:48+08:00,,Bug-Report
+86,4022170,I2E7IY,open,7342128,jonwe,JonathanY,[],2021-01-21T13:23:41+08:00,2021-01-21T13:24:07+08:00,,Requirement
+87,4021836,I2E79O,open,8597950,chao-casia,chao_casia,[],2021-01-21T11:50:01+08:00,2021-01-21T11:51:32+08:00,,Empty-Template
+88,4020218,I2E60Q,open,6575395,xulei2020,xulei,[],2021-01-21T09:06:57+08:00,2021-02-03T10:21:56+08:00,,Requirement
+89,4015015,I2E207,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2021-01-20T11:52:00+08:00,2021-01-20T11:52:41+08:00,,RFC
+90,4014150,I2E1C6,open,8585225,harasuki,harasuki,[],2021-01-20T10:37:56+08:00,2021-01-20T11:02:32+08:00,,Bug-Report
+91,4012788,I2E0AC,open,7823966,TFbunny,34bunny,[],2021-01-20T06:29:16+08:00,2021-01-20T06:32:14+08:00,,Requirement
+92,4007176,I2DVYG,open,7379874,ddwsky,wandongdong,[],2021-01-19T16:05:45+08:00,2021-01-19T16:05:46+08:00,,RFC
+93,4006463,I2DVEN,open,7517111,sliawatimena,sliawatimena,[],2021-01-19T15:12:07+08:00,2021-01-19T15:12:08+08:00,,RFC
+94,4003045,I2DSRP,open,7405533,wei_wei_yang_vs,杨维维,"[{'id': 58024345, 'name': 'comp/example', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/example', 'created_at': '2020-03-19T16:40:50+08:00', 'updated_at': '2021-01-19T09:30:20+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58021170, 'name': 'kind/performance', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/performance', 'created_at': '2020-03-19T16:21:45+08:00', 'updated_at': '2021-02-05T15:53:45+08:00'}]",2021-01-19T09:30:19+08:00,2021-01-19T09:30:20+08:00,,Bug-Report
+95,4002995,I2DSQB,open,7405533,wei_wei_yang_vs,杨维维,"[{'id': 58024345, 'name': 'comp/example', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/example', 'created_at': '2020-03-19T16:40:50+08:00', 'updated_at': '2021-01-19T09:30:20+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2021-01-19T09:24:34+08:00,2021-01-19T09:31:31+08:00,,Bug-Report
+96,4002387,I2DS9F,open,5078,skywalk,skywalk,[],2021-01-18T22:27:19+08:00,2021-01-18T22:27:20+08:00,,Bug-Report
+97,4001712,I2DRQO,open,7353920,hangangqiang,hangq,[],2021-01-18T19:07:30+08:00,2021-02-04T20:51:44+08:00,,RFC
+98,4000147,I2DQJ7,open,8203343,zhang-guowen123,张国稳,[],2021-01-18T16:33:04+08:00,2021-01-18T16:33:05+08:00,,Bug-Report
+99,3999922,I2DQCY,open,7663402,liangzelang,liangzelang,[],2021-01-18T16:16:09+08:00,2021-01-18T16:19:51+08:00,,Bug-Report
+100,3994427,I2DM4B,open,7892682,ffeiding,ffeiDing,[],2021-01-17T21:01:44+08:00,2021-01-17T21:02:53+08:00,,Bug-Report
+101,3994186,I2DLXM,open,7822313,smcopen,smcopen,[],2021-01-17T18:47:41+08:00,2021-01-17T18:48:43+08:00,,Bug-Report
+102,3992305,I2DKHD,open,7586306,tukjet,tukjet,[],2021-01-16T18:30:03+08:00,2021-01-16T18:30:05+08:00,,Bug-Report
+103,3991896,I2DK60,open,6575400,yanghaitao1,yanghaitao,[],2021-01-16T16:42:28+08:00,2021-01-16T16:47:11+08:00,,RFC
+104,3991728,I2DK1C,open,8359095,zuochuanyong,zuochuanyong,[],2021-01-16T16:07:36+08:00,2021-01-16T16:25:37+08:00,,RFC
+105,3991594,I2DJXM,open,6574854,jjfeing,jjfeing,[],2021-01-16T15:34:18+08:00,2021-01-16T16:14:47+08:00,,Empty-Template
+106,3986072,I2DFO8,open,5644189,c_34,chenhaozhe,[],2021-01-15T14:18:44+08:00,2021-01-15T14:18:45+08:00,,Task-Tracking
+107,3982518,I2DCXI,open,6584642,yuzhenhua666,于振华,[],2021-01-14T20:46:45+08:00,2021-01-14T20:46:45+08:00,,RFC
+108,3982391,I2DCTZ,open,6584654,yoonlee666,yoonlee666,[],2021-01-14T20:14:00+08:00,2021-01-14T20:15:58+08:00,,Bug-Report
+109,3978597,I2D9WL,open,7347367,wangnan39,wangnan39,[],2021-01-14T16:26:21+08:00,2021-01-14T16:36:01+08:00,,RFC
+110,3978589,I2D9WD,open,7347367,wangnan39,wangnan39,[],2021-01-14T16:25:32+08:00,2021-01-14T16:33:32+08:00,,RFC
+111,3978574,I2D9VY,open,7347367,wangnan39,wangnan39,[],2021-01-14T16:24:10+08:00,2021-01-14T16:32:51+08:00,,RFC
+112,3978562,I2D9VM,open,7347367,wangnan39,wangnan39,[],2021-01-14T16:23:15+08:00,2021-01-14T16:32:01+08:00,,RFC
+113,3978543,I2D9V3,open,7347367,wangnan39,wangnan39,[],2021-01-14T16:20:37+08:00,2021-01-14T16:30:12+08:00,,RFC
+114,3975343,I2D7E7,open,7342131,ezphlow,EricZ,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-01-14T11:12:34+08:00,2021-01-14T11:12:35+08:00,,Task-Tracking
+115,3973600,I2D61S,open,7346502,ziruiwu,ZiruiWu,[],2021-01-14T00:23:59+08:00,2021-01-14T00:24:11+08:00,,Requirement
+116,3964225,I2CYTD,open,8541141,zxyhku,多啦A梦吃月亮,[],2021-01-12T17:16:07+08:00,2021-01-12T17:16:08+08:00,,Bug-Report
+117,3962284,I2CXBG,open,8203343,zhang-guowen123,张国稳,[],2021-01-12T14:32:19+08:00,2021-01-12T14:32:21+08:00,,Bug-Report
+118,3962208,I2CX9C,open,8203343,zhang-guowen123,张国稳,[],2021-01-12T14:27:27+08:00,2021-01-12T14:27:28+08:00,,Bug-Report
+119,3962043,I2CX4R,open,8203343,zhang-guowen123,张国稳,[],2021-01-12T14:15:15+08:00,2021-01-12T14:15:17+08:00,,Bug-Report
+120,3960848,I2CW7K,open,7889971,lzkcode,liuzhongkai,[],2021-01-12T11:32:12+08:00,2021-02-05T11:23:31+08:00,,Bug-Report
+121,3959399,I2CV3B,open,7980789,huwenfengde,black,[],2021-01-12T09:43:03+08:00,2021-01-13T09:49:52+08:00,,Requirement
+122,3956550,I2CSW6,open,7342972,wtcheng,wtcheng,[],2021-01-11T16:58:53+08:00,2021-01-11T17:16:04+08:00,,Task-Tracking
+123,3954123,I2CR0R,open,8203343,zhang-guowen123,张国稳,[],2021-01-11T14:23:31+08:00,2021-01-11T14:23:33+08:00,,Bug-Report
+124,3951307,I2COUJ,open,6575338,xiefangqi,xiefangqi,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2021-01-11T09:54:52+08:00,2021-01-15T09:30:09+08:00,,Bug-Report
+125,3947916,I2CM8C,open,6575280,zhoufeng54,zhoufeng,[],2021-01-09T18:40:42+08:00,2021-01-09T18:40:43+08:00,,Empty-Template
+126,3941031,I2CGX3,open,8354918,xutianming1985,xutianming_hw,[],2021-01-08T11:25:05+08:00,2021-01-08T11:29:53+08:00,,Requirement
+127,3940538,I2CGJE,open,7889971,lzkcode,liuzhongkai,[],2021-01-08T10:39:27+08:00,2021-01-08T10:39:40+08:00,,Bug-Report
+128,3939273,I2CFK9,open,7346502,ziruiwu,ZiruiWu,[],2021-01-07T23:53:48+08:00,2021-01-07T23:54:08+08:00,,Requirement
+129,3935575,I2CCPJ,open,6574854,jjfeing,jjfeing,[],2021-01-07T14:45:18+08:00,2021-01-16T15:33:29+08:00,,Empty-Template
+130,3935232,I2CCG0,open,7716582,zyhstack,张毅辉,[],2021-01-07T14:15:17+08:00,2021-02-05T10:55:17+08:00,,Bug-Report
+131,3933562,I2CB5M,open,8477041,zhang-haomin,张浩旻,[],2021-01-07T10:39:57+08:00,2021-01-07T10:39:58+08:00,,Bug-Report
+132,3927116,I2C66K,open,7767239,maning202007,maning202007,[],2021-01-06T11:41:47+08:00,2021-01-06T11:42:14+08:00,,Bug-Report
+133,3925886,I2C58E,open,8055865,junjiecheng,junjie,[],2021-01-06T09:57:54+08:00,2021-02-05T11:30:01+08:00,,Bug-Report
+134,3925478,I2C4X2,open,8203343,zhang-guowen123,张国稳,[],2021-01-06T09:27:12+08:00,2021-01-06T09:27:14+08:00,,Requirement
+135,3925112,I2C4MW,open,7342911,peilin-wang,Peilin,[],2021-01-06T03:08:03+08:00,2021-02-05T05:42:41+08:00,,Empty-Template
+136,3925009,I2C4K1,open,754894,ahangchen,梦里风林,[],2021-01-06T00:13:37+08:00,2021-01-06T00:46:11+08:00,,Requirement
+137,3924462,I2C44U,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2021-01-05T20:51:08+08:00,2021-01-05T20:51:46+08:00,,Bug-Report
+138,3924425,I2C43T,open,8353050,yuanwei66,yuanwei,[],2021-01-05T20:38:04+08:00,2021-01-05T20:45:15+08:00,,Bug-Report
+139,3924189,I2C3X9,open,2151589,shuzigood,吴书全,[],2021-01-05T19:34:10+08:00,2021-01-05T20:00:35+08:00,,RFC
+140,3923205,I2C35X,open,7347367,wangnan39,wangnan39,[],2021-01-05T17:34:00+08:00,2021-02-05T11:12:32+08:00,,RFC
+141,3921935,I2C26N,open,7347367,wangnan39,wangnan39,[],2021-01-05T16:05:57+08:00,2021-02-06T15:18:26+08:00,,RFC
+142,3921716,I2C20K,open,5574942,qinyuyou,qq1127467922,[],2021-01-05T15:48:56+08:00,2021-01-05T15:48:57+08:00,,Bug-Report
+143,3912578,I2BUYQ,open,8533468,nodentyk,Nodentyk,[],2021-01-05T01:09:02+08:00,2021-02-05T14:58:42+08:00,,Bug-Report
+144,3912338,I2BUS2,open,7346502,ziruiwu,ZiruiWu,[],2021-01-04T22:22:38+08:00,2021-01-15T02:39:17+08:00,,Bug-Report
+145,3906731,I2BQGB,open,8287283,jachua,huangmengxi,[],2021-01-04T11:52:28+08:00,2021-01-04T12:12:16+08:00,,Bug-Report
+146,3905953,I2BPUP,open,7980789,huwenfengde,black,[],2021-01-04T11:08:51+08:00,2021-01-04T11:08:52+08:00,,Bug-Report
+147,3902657,I2BNB5,open,7569308,shgao,shgao,[],2021-01-03T14:24:27+08:00,2021-01-04T14:04:57+08:00,,Bug-Report
+148,3899926,I2BL7A,open,7641490,lixiachen,lixiachen,[],2021-01-01T02:26:31+08:00,2021-01-04T23:02:04+08:00,,Task-Tracking
+149,3898928,I2BKFK,open,430441,deathy,neginegine,[],2020-12-31T17:24:46+08:00,2020-12-31T17:26:05+08:00,,Bug-Report
+150,3897995,I2BJPN,open,7353896,fuzhiye,fuzhiye,[],2020-12-31T15:48:38+08:00,2020-12-31T15:50:40+08:00,,Bug-Report
+151,3895424,I2BHQ8,open,7379893,chenzupeng,chenzupeng,[],2020-12-31T10:23:21+08:00,2021-01-06T16:09:09+08:00,,Task-Tracking
+152,3895346,I2BHO2,open,5644189,c_34,chenhaozhe,"[{'id': 58023509, 'name': 'comp/infer', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/infer', 'created_at': '2020-03-19T16:35:31+08:00', 'updated_at': '2021-01-30T17:31:49+08:00'}, {'id': 58024546, 'name': 'comp/pipeline', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pipeline', 'created_at': '2020-03-19T16:42:09+08:00', 'updated_at': '2021-01-14T14:58:47+08:00'}, {'id': 76126611, 'name': 'usability-vm', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-vm', 'created_at': '2020-08-21T15:00:04+08:00', 'updated_at': '2021-01-15T10:21:56+08:00'}]",2020-12-31T10:16:24+08:00,2020-12-31T10:16:25+08:00,,Empty-Template
+153,3895305,I2BHMX,open,8354918,xutianming1985,xutianming_hw,[],2020-12-31T10:12:28+08:00,2020-12-31T10:21:12+08:00,,Task-Tracking
+154,3893836,I2BGI4,open,7830176,probiotics_53,XianglongZeng,[],2020-12-30T19:44:31+08:00,2021-02-05T18:05:11+08:00,,Bug-Report
+155,3890570,I2BDZE,open,7353923,zhanghaibo5,zhanghaibo,[],2020-12-30T14:45:35+08:00,2020-12-30T15:18:02+08:00,,Task-Tracking
+156,3890546,I2BDYQ,open,734519,zzqq2199,zzqq2199,[],2020-12-30T14:43:09+08:00,2020-12-30T14:43:10+08:00,,Bug-Report
+157,3888643,I2BCHV,open,8358766,shaoxiangdong,shaoxiangdong,[],2020-12-30T10:35:49+08:00,2020-12-30T14:42:32+08:00,,Requirement
+158,3888075,I2BC23,open,7348332,shibeiji,shibeiji,[],2020-12-30T09:41:51+08:00,2020-12-30T14:12:44+08:00,,RFC
+159,3886726,I2BB0M,open,6584616,chenmai1102,chenmai1102,[],2020-12-29T19:54:10+08:00,2020-12-29T19:54:10+08:00,,RFC
+160,3885302,I2B9X2,open,7808356,ouyang_xx,YANGing,[],2020-12-29T17:03:21+08:00,2020-12-29T17:05:54+08:00,,Bug-Report
+161,3884159,I2B91B,open,8179918,wang-yiru,王艺儒,[],2020-12-29T15:42:27+08:00,2021-01-05T09:51:48+08:00,,Bug-Report
+162,3880989,I2B6L9,open,6568622,sanson00048,sanson00048,[],2020-12-29T10:25:03+08:00,2020-12-29T10:25:06+08:00,,Bug-Report
+163,3878885,I2B4YT,open,7342596,kangyangzc,kyang,[],2020-12-28T19:22:16+08:00,2020-12-28T19:26:17+08:00,,Bug-Report
+164,3873480,I2B0SO,open,6584633,zhao_ting_v,zhaoting,[],2020-12-28T10:54:20+08:00,2020-12-28T11:00:19+08:00,,Bug-Report
+165,3872361,I2AZXL,open,7353896,fuzhiye,fuzhiye,[],2020-12-28T09:30:16+08:00,2021-01-04T17:17:07+08:00,,RFC
+166,3872174,I2AZSE,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2020-12-28T09:06:56+08:00,2020-12-28T09:07:16+08:00,,Bug-Report
+167,3870936,I2AYU0,open,6574854,jjfeing,jjfeing,[],2020-12-27T14:21:52+08:00,2020-12-27T14:23:58+08:00,,Empty-Template
+168,3869900,I2AY18,open,8376966,zhupuxu,zhupuxu,[],2020-12-26T18:46:07+08:00,2020-12-26T20:09:16+08:00,,Empty-Template
+169,3869869,I2AY0D,open,7353920,hangangqiang,hangq,[],2020-12-26T18:29:06+08:00,2021-01-21T17:22:45+08:00,,RFC
+170,3869842,I2AXZM,open,7353920,hangangqiang,hangq,[],2020-12-26T18:22:28+08:00,2021-01-04T17:06:20+08:00,,RFC
+171,3869699,I2AXVN,open,7379874,ddwsky,wandongdong,[],2020-12-26T17:36:46+08:00,2020-12-26T17:36:49+08:00,,RFC
+172,3867974,I2AWJQ,open,8497918,AlbertCheese,芝士条,[],2020-12-26T09:30:37+08:00,2020-12-28T10:44:55+08:00,,Requirement
+173,3866578,I2AVGY,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-25T17:23:03+08:00,2020-12-25T17:25:01+08:00,,RFC
+174,3866394,I2AVBU,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2020-12-25T17:01:47+08:00,2020-12-25T17:02:44+08:00,,Bug-Report
+175,3860856,I2AR20,open,8486970,leoxyzzzzzzzzzzzzzz,leoxyz,[],2020-12-24T21:52:09+08:00,2020-12-24T21:52:11+08:00,,Requirement
+176,3858934,I2APKM,open,8376966,zhupuxu,zhupuxu,[],2020-12-24T16:11:36+08:00,2020-12-24T18:45:13+08:00,,Empty-Template
+177,3858360,I2AP4O,open,6584633,zhao_ting_v,zhaoting,"[{'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-24T15:14:24+08:00,2020-12-24T15:14:27+08:00,,Requirement
+178,3856566,I2ANQU,open,8354868,lishixing3,lishixing3,[],2020-12-24T11:10:28+08:00,2020-12-28T15:24:18+08:00,,Requirement
+179,3854732,I2AMBW,open,7346502,ziruiwu,ZiruiWu,[],2020-12-23T22:56:29+08:00,2020-12-23T22:56:42+08:00,,Requirement
+180,3852958,I2AKYM,open,7610862,lvchangquan,lvchangquan,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}, {'id': 58021008, 'name': 'kind/enhancement', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/enhancement', 'created_at': '2020-03-19T16:20:44+08:00', 'updated_at': '2021-02-04T20:22:47+08:00'}]",2020-12-23T17:10:16+08:00,2021-01-12T16:13:32+08:00,,RFC
+181,3847734,I2AGXI,open,7346502,ziruiwu,ZiruiWu,[],2020-12-23T03:24:34+08:00,2020-12-23T03:24:45+08:00,,Requirement
+182,3847401,I2AGO9,open,8353466,anrui-wang,Anrui Wang,[],2020-12-22T21:27:45+08:00,2020-12-28T14:20:49+08:00,,Requirement
+183,3843583,I2ADQ7,open,7825720,zyx5256,zhuyuxiao,[],2020-12-22T17:29:59+08:00,2020-12-22T17:31:28+08:00,,Requirement
+184,3839315,I2AAFN,open,7353896,fuzhiye,fuzhiye,[],2020-12-22T10:48:34+08:00,2020-12-22T10:49:37+08:00,,Bug-Report
+185,3838495,I2A9SV,open,5610790,yyyzzzhao,yyyzzzhao,[],2020-12-22T09:45:37+08:00,2020-12-22T09:47:58+08:00,,Bug-Report
+186,3837768,I2A98O,open,7342911,peilin-wang,Peilin,"[{'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-22T05:35:21+08:00,2020-12-22T05:38:37+08:00,,Empty-Template
+187,3837687,I2A96F,open,7346502,ziruiwu,ZiruiWu,[],2020-12-21T23:35:45+08:00,2020-12-21T23:38:12+08:00,,Bug-Report
+188,3835543,I2A7IV,open,7835588,irasinn,Sin,[],2020-12-21T16:37:17+08:00,2021-01-21T19:35:12+08:00,,Bug-Report
+189,3826418,I2A0HE,open,7641490,lixiachen,lixiachen,[],2020-12-19T10:26:54+08:00,2020-12-19T10:26:56+08:00,,Task-Tracking
+190,3825972,I2A050,open,7346502,ziruiwu,ZiruiWu,[],2020-12-19T03:50:01+08:00,2020-12-19T04:01:03+08:00,,Requirement
+191,3824232,I29YSO,open,6575400,yanghaitao1,yanghaitao,[],2020-12-18T17:08:26+08:00,2020-12-18T17:12:54+08:00,,Bug-Report
+192,3820266,I29VQI,open,6575118,kisnwang,kisnwang,[],2020-12-18T10:03:17+08:00,2020-12-18T10:03:43+08:00,,Task-Tracking
+193,3819413,I29V2T,open,7342911,peilin-wang,Peilin,"[{'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-18T02:51:40+08:00,2020-12-18T03:24:02+08:00,,Empty-Template
+194,3818681,I29UIH,open,8354918,xutianming1985,xutianming_hw,[],2020-12-17T21:02:11+08:00,2020-12-17T21:07:45+08:00,,Requirement
+195,3818380,I29UA4,open,7500020,zhanyuan1,zhanyuan,[],2020-12-17T20:00:03+08:00,2021-02-05T15:01:55+08:00,,RFC
+196,3816558,I29SVI,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-12-17T16:45:30+08:00,2021-01-07T11:10:31+08:00,,Bug-Report
+197,3816024,I29SGO,open,8358766,shaoxiangdong,shaoxiangdong,[],2020-12-17T15:57:09+08:00,2020-12-17T16:00:09+08:00,,Requirement
+198,3815418,I29RZU,open,8357093,dangjiaqi1,dangjiaqi1,[],2020-12-17T15:10:21+08:00,2020-12-17T15:18:51+08:00,,Requirement
+199,3812159,I29PHB,open,7363368,minara,Mina,[],2020-12-17T02:23:43+08:00,2020-12-17T02:25:51+08:00,,Bug-Report
+200,3812134,I29PGM,open,7346502,ziruiwu,ZiruiWu,[],2020-12-17T01:12:53+08:00,2020-12-17T01:13:17+08:00,,Bug-Report
+201,3811528,I29OZS,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022888, 'name': 'comp/optimizer', 'color': 'b0d206', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/optimizer', 'created_at': '2020-03-19T16:31:27+08:00', 'updated_at': '2021-01-28T16:48:48+08:00'}]",2020-12-16T19:57:05+08:00,2020-12-16T20:01:19+08:00,,RFC
+202,3809401,I29NCP,open,7348332,shibeiji,shibeiji,[],2020-12-16T16:01:06+08:00,2020-12-18T16:52:17+08:00,,RFC
+203,3802208,I29HSW,open,8354918,xutianming1985,xutianming_hw,[],2020-12-15T15:56:09+08:00,2020-12-15T21:27:12+08:00,,Task-Tracking
+204,3788128,I296XS,open,7420981,ehaleva,ehaleva,"[{'id': 76126610, 'name': 'usability-modelzoo', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-modelzoo', 'created_at': '2020-08-21T14:59:53+08:00', 'updated_at': '2021-02-02T20:16:48+08:00'}, {'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}]",2020-12-13T15:03:17+08:00,2020-12-22T16:32:52+08:00,,Bug-Report
+205,3786786,I295WI,open,7347367,wangnan39,wangnan39,[],2020-12-12T17:53:25+08:00,2020-12-17T16:39:56+08:00,,Task-Tracking
+206,3786774,I295W6,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:52:02+08:00,2020-12-23T20:32:16+08:00,,Requirement
+207,3786750,I295VI,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:48:01+08:00,2020-12-23T16:49:12+08:00,,Requirement
+208,3786743,I295VB,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:45:31+08:00,2020-12-26T17:46:55+08:00,,Requirement
+209,3786721,I295UP,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:40:31+08:00,2020-12-27T15:53:00+08:00,,Requirement
+210,3786718,I295UM,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:39:07+08:00,2020-12-22T14:46:38+08:00,,Requirement
+211,3786637,I295SD,open,7808356,ouyang_xx,YANGing,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-12T17:13:18+08:00,2020-12-28T08:55:27+08:00,,Requirement
+212,3782938,I292XM,open,6576637,ms_yan,ms_yan,[],2020-12-11T17:08:40+08:00,2020-12-22T19:43:27+08:00,,Task-Tracking
+213,3782712,I292RC,open,8357181,he-botao,何博韬,[],2020-12-11T16:39:15+08:00,2020-12-11T17:01:21+08:00,,Requirement
+214,3782167,I292C7,open,6521784,chenfei52,chenfei_mindspore,"[{'id': 59187557, 'name': 'comp/parser', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/parser', 'created_at': '2020-03-30T03:25:41+08:00', 'updated_at': '2021-02-01T15:11:39+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-11T15:43:41+08:00,2020-12-11T15:47:37+08:00,,RFC
+215,3782105,I292AH,open,6517937,tronzhang,TronZhang,[],2020-12-11T15:39:15+08:00,2021-01-06T18:54:07+08:00,,RFC
+216,3781709,I291ZH,open,7833745,zhaochao27,atlas_zc,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-11T15:04:09+08:00,2021-02-02T20:38:43+08:00,,Bug-Report
+217,3778039,I28Z5J,open,7342144,cathwong,cathwong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-11T01:43:41+08:00,2020-12-11T01:44:04+08:00,,Bug-Report
+218,3777996,I28Z4C,open,7342144,cathwong,cathwong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-12-11T01:12:24+08:00,2020-12-11T03:01:12+08:00,,Bug-Report
+219,3776918,I28YAE,open,6573901,zhouyaqiang0,zhouyaqiang0,"[{'id': 76119735, 'name': 'usability', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability', 'created_at': '2020-08-21T14:30:18+08:00', 'updated_at': '2021-02-05T16:42:11+08:00'}, {'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}]",2020-12-10T19:03:47+08:00,2021-01-28T10:00:01+08:00,,Bug-Report
+220,3774350,I28WB2,open,7456437,huaweib,baihuawei,[],2020-12-10T14:47:26+08:00,2020-12-12T16:27:38+08:00,,RFC
+221,3774348,I28WB0,open,7347367,wangnan39,wangnan39,[],2020-12-10T14:47:23+08:00,2020-12-14T21:41:41+08:00,,Task-Tracking
+222,3773728,I28VTS,open,8376966,zhupuxu,zhupuxu,[],2020-12-10T13:51:50+08:00,2020-12-10T13:52:25+08:00,,Empty-Template
+223,3773437,I28VLP,open,7347367,wangnan39,wangnan39,[],2020-12-10T12:54:19+08:00,2020-12-12T16:19:13+08:00,,Task-Tracking
+224,3770863,I28TM7,open,7346502,ziruiwu,ZiruiWu,[],2020-12-10T06:11:49+08:00,2020-12-10T06:12:58+08:00,,Requirement
+225,3770752,I28TJ4,open,8334538,mhmotallebi,Mohammad Motallebi,[],2020-12-10T02:40:25+08:00,2020-12-10T02:41:26+08:00,,Task-Tracking
+226,3770665,I28TGP,open,7641490,lixiachen,lixiachen,[],2020-12-09T23:38:12+08:00,2020-12-09T23:43:45+08:00,,Task-Tracking
+227,3770635,I28TFV,open,7641490,lixiachen,lixiachen,[],2020-12-09T23:21:40+08:00,2020-12-09T23:23:24+08:00,,Task-Tracking
+228,3770597,I28TET,open,7641490,lixiachen,lixiachen,[],2020-12-09T23:00:49+08:00,2020-12-16T16:39:38+08:00,,Task-Tracking
+229,3770594,I28TEQ,open,6576637,ms_yan,ms_yan,[],2020-12-09T22:57:43+08:00,2020-12-17T20:20:20+08:00,,Task-Tracking
+230,3770582,I28TEE,open,7641490,lixiachen,lixiachen,[],2020-12-09T22:44:20+08:00,2020-12-14T17:19:31+08:00,,Task-Tracking
+231,3770446,I28TAM,open,7347367,wangnan39,wangnan39,[],2020-12-09T21:39:55+08:00,2020-12-24T21:15:40+08:00,,Task-Tracking
+232,3770426,I28TA2,open,6576637,ms_yan,ms_yan,[],2020-12-09T21:34:00+08:00,2020-12-25T19:43:08+08:00,,Task-Tracking
+233,3770391,I28T93,open,8353050,yuanwei66,yuanwei,[],2020-12-09T21:22:57+08:00,2020-12-10T14:28:45+08:00,,Bug-Report
+234,3770279,I28T5Z,open,7347367,wangnan39,wangnan39,[],2020-12-09T20:50:10+08:00,2020-12-20T21:09:59+08:00,,Task-Tracking
+235,3770059,I28SZV,open,7456437,huaweib,baihuawei,[],2020-12-09T19:55:24+08:00,2020-12-17T16:51:09+08:00,,Task-Tracking
+236,3769781,I28SS5,open,7456437,huaweib,baihuawei,[],2020-12-09T19:14:17+08:00,2020-12-12T16:36:27+08:00,,RFC
+237,3769064,I28S88,open,6518142,gemini524,TingWang,[],2020-12-09T17:30:33+08:00,2020-12-15T16:21:30+08:00,,Task-Tracking
+238,3768624,I28RW0,open,5285021,guohun258520,赵国春,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-09T16:49:31+08:00,2020-12-26T10:29:24+08:00,,Requirement
+239,3764805,I28OXX,open,7476726,xiaoyisd,xiaoyisd,[],2020-12-09T10:34:19+08:00,2020-12-28T16:44:31+08:00,,Requirement
+240,3763412,I28NV8,open,7346502,ziruiwu,ZiruiWu,[],2020-12-09T06:23:14+08:00,2020-12-09T06:23:31+08:00,,Empty-Template
+241,3761461,I28MD1,open,6557911,echo_hua,echo_hua,"[{'id': 76119735, 'name': 'usability', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability', 'created_at': '2020-08-21T14:30:18+08:00', 'updated_at': '2021-02-05T16:42:11+08:00'}, {'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-12-08T17:39:05+08:00,2020-12-08T19:48:25+08:00,,Bug-Report
+242,3760485,I28LLX,open,8355206,xukailun_1,xukailun_1,[],2020-12-08T16:13:11+08:00,2020-12-08T16:13:13+08:00,,Requirement
+243,3760285,I28LGD,open,7347157,joylvliang,JoyLvliang,"[{'id': 58023509, 'name': 'comp/infer', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/infer', 'created_at': '2020-03-19T16:35:31+08:00', 'updated_at': '2021-01-30T17:31:49+08:00'}, {'id': 59187557, 'name': 'comp/parser', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/parser', 'created_at': '2020-03-30T03:25:41+08:00', 'updated_at': '2021-02-01T15:11:39+08:00'}, {'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-12-08T15:55:34+08:00,2020-12-08T16:01:57+08:00,,RFC
+244,3756383,I28IFZ,open,6574868,jojobugfree,caifubi,[],2020-12-08T09:49:27+08:00,2020-12-08T09:49:56+08:00,,Bug-Report
+245,3754831,I28H8V,open,7825720,zyx5256,zhuyuxiao,[],2020-12-07T19:44:20+08:00,2020-12-09T09:09:59+08:00,,Requirement
+246,3754043,I28GMZ,open,6573901,zhouyaqiang0,zhouyaqiang0,"[{'id': 76119735, 'name': 'usability', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability', 'created_at': '2020-08-21T14:30:18+08:00', 'updated_at': '2021-02-05T16:42:11+08:00'}, {'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}]",2020-12-07T17:47:59+08:00,2020-12-11T18:12:19+08:00,,RFC
+247,3753112,I28FX4,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-12-07T16:23:08+08:00,2021-01-04T09:28:27+08:00,,Bug-Report
+248,3750071,I28DKN,open,6574899,ginfung,YuJianfeng,[],2020-12-07T11:16:06+08:00,2021-01-13T15:17:52+08:00,,RFC
+249,3749763,I28DC3,open,7347367,wangnan39,wangnan39,"[{'id': 58023122, 'name': 'comp/ir', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/ir', 'created_at': '2020-03-19T16:33:01+08:00', 'updated_at': '2021-02-02T16:27:39+08:00'}]",2020-12-07T10:57:36+08:00,2020-12-07T11:15:21+08:00,,RFC
+250,3746726,I28AZQ,open,7917450,yanglf1121,杨林枫,[],2020-12-06T13:59:33+08:00,2020-12-06T13:59:35+08:00,,Bug-Report
+251,3745058,I289PE,open,6575395,xulei2020,xulei,[],2020-12-05T16:47:39+08:00,2020-12-05T16:49:24+08:00,,Task-Tracking
+252,3744512,I289A8,open,6574868,jojobugfree,caifubi,[],2020-12-05T14:33:37+08:00,2020-12-05T14:35:32+08:00,,RFC
+253,3741707,I2874B,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-12-04T18:02:29+08:00,2020-12-24T14:08:31+08:00,,Bug-Report
+254,3738945,I284ZL,open,7389807,jameshsu,JamesHsu,[],2020-12-04T14:08:50+08:00,2020-12-04T14:08:51+08:00,,Bug-Report
+255,3736219,I282VV,open,6575280,zhoufeng54,zhoufeng,[],2020-12-04T09:17:35+08:00,2020-12-04T09:19:16+08:00,,Empty-Template
+256,3734539,I281L7,open,1850005,zymaa,ZYMa,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T17:55:27+08:00,2020-12-22T20:01:47+08:00,,Bug-Report
+257,3734491,I281JV,open,1850005,zymaa,ZYMa,[],2020-12-03T17:51:35+08:00,2020-12-22T14:15:33+08:00,,Bug-Report
+258,3734036,I28178,open,8400738,kang-ning,Kang Ning,[],2020-12-03T17:08:33+08:00,2020-12-22T14:35:37+08:00,,Bug-Report
+259,3733847,I2811Z,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:49:56+08:00,2020-12-17T15:28:55+08:00,,Requirement
+260,3733802,I2810Q,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:44:32+08:00,2020-12-16T15:42:53+08:00,,Requirement
+261,3733787,I2810B,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:43:52+08:00,2020-12-22T14:53:15+08:00,,Bug-Report
+262,3733773,I280ZX,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:43:15+08:00,2020-12-22T15:21:00+08:00,,Requirement
+263,3733746,I280Z6,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:41:51+08:00,2020-12-22T14:52:02+08:00,,Requirement
+264,3733726,I280YM,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:40:52+08:00,2020-12-18T09:27:35+08:00,,Requirement
+265,3733698,I280XU,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-03T16:39:04+08:00,2020-12-17T15:22:44+08:00,,Requirement
+266,3730669,I27YLP,open,8354868,lishixing3,lishixing3,[],2020-12-03T10:43:45+08:00,2020-12-03T12:01:32+08:00,,Requirement
+267,3729414,I27XMU,open,8321864,amonakov,Alexander Monakov,[],2020-12-03T05:06:20+08:00,2021-02-05T15:02:56+08:00,,Bug-Report
+268,3727743,I27WCF,open,8357093,dangjiaqi1,dangjiaqi1,[],2020-12-02T17:47:52+08:00,2020-12-02T17:58:11+08:00,,Requirement
+269,3723881,I27TD5,open,7347367,wangnan39,wangnan39,[],2020-12-02T11:35:22+08:00,2021-01-04T21:18:19+08:00,,RFC
+270,3723331,I27SXV,open,8355206,xukailun_1,xukailun_1,[],2020-12-02T10:55:29+08:00,2020-12-02T10:55:31+08:00,,Requirement
+271,3722225,I27S35,open,6574868,jojobugfree,caifubi,[],2020-12-02T09:25:30+08:00,2020-12-02T09:26:48+08:00,,RFC
+272,3722090,I27RZE,open,8376966,zhupuxu,zhupuxu,[],2020-12-02T09:09:48+08:00,2020-12-02T10:33:44+08:00,,Empty-Template
+273,3721842,I27RSI,open,7823966,TFbunny,34bunny,[],2020-12-02T03:44:09+08:00,2020-12-16T04:11:47+08:00,,Bug-Report
+274,3721339,I27REJ,open,8353050,yuanwei66,yuanwei,[],2020-12-01T21:19:34+08:00,2020-12-01T21:29:41+08:00,,Bug-Report
+275,3721319,I27RDZ,open,7834060,lixiaohui33,lixiaohui33,[],2020-12-01T21:10:06+08:00,2020-12-14T11:40:46+08:00,,Task-Tracking
+276,3721127,I27R8N,open,8354918,xutianming1985,xutianming_hw,[],2020-12-01T19:52:56+08:00,2020-12-02T10:56:36+08:00,,Requirement
+277,3720953,I27R3T,open,6517952,youui,weiyang,[],2020-12-01T19:18:51+08:00,2020-12-01T19:25:03+08:00,,RFC
+278,3720851,I27R0Z,open,1150122,windaway,Windaway,"[{'id': 78928724, 'name': 'mindspore-assistant', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/mindspore-assistant', 'created_at': '2020-09-14T16:21:54+08:00', 'updated_at': '2021-02-03T09:58:20+08:00'}]",2020-12-01T19:03:23+08:00,2020-12-18T09:29:10+08:00,,Requirement
+279,3719300,I27PTW,open,7825720,zyx5256,zhuyuxiao,[],2020-12-01T16:38:14+08:00,2020-12-01T16:40:04+08:00,,Requirement
+280,3716479,I27NNJ,open,8354868,lishixing3,lishixing3,[],2020-12-01T11:45:32+08:00,2020-12-01T11:45:33+08:00,,Bug-Report
+281,3716466,I27NN6,open,8354868,lishixing3,lishixing3,[],2020-12-01T11:43:46+08:00,2020-12-01T11:43:47+08:00,,Requirement
+282,3715405,I27MTP,open,8353466,anrui-wang,Anrui Wang,[],2020-12-01T10:26:59+08:00,2020-12-02T10:58:01+08:00,,Requirement
+283,3714141,I27LUL,open,7346502,ziruiwu,ZiruiWu,[],2020-12-01T06:53:50+08:00,2020-12-01T06:54:29+08:00,,Requirement
+284,3710418,I27IZ6,open,1850005,zymaa,ZYMa,[],2020-11-30T17:48:46+08:00,2020-12-01T01:25:09+08:00,,RFC
+285,3710186,I27ISQ,open,8357181,he-botao,何博韬,[],2020-11-30T17:25:52+08:00,2020-11-30T18:37:58+08:00,,Requirement
+286,3700340,I27B78,open,8353751,xiangyunwu21,xiangyunwu,[],2020-11-28T11:14:58+08:00,2020-11-28T11:46:30+08:00,,Requirement
+287,3700242,I27B4I,open,7363327,robingrosman,RobinGrosman,[],2020-11-28T10:50:00+08:00,2020-11-28T10:58:26+08:00,,Task-Tracking
+288,3699802,I27ASA,open,8334538,mhmotallebi,Mohammad Motallebi,[],2020-11-28T00:54:40+08:00,2020-11-28T00:55:23+08:00,,Requirement
+289,3699764,I27AR8,open,7346502,ziruiwu,ZiruiWu,[],2020-11-28T00:10:42+08:00,2020-11-28T00:11:00+08:00,,Bug-Report
+290,3697961,I279D5,open,7347157,joylvliang,JoyLvliang,"[{'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-11-27T17:11:04+08:00,2020-12-30T11:39:00+08:00,,Requirement
+291,3690409,I273JD,open,6575395,xulei2020,xulei,[],2020-11-26T16:26:28+08:00,2020-12-11T10:49:47+08:00,,Task-Tracking
+292,3687721,I271GP,open,7980789,huwenfengde,black,[],2020-11-26T11:22:02+08:00,2020-11-26T11:25:12+08:00,,Bug-Report
+293,3685899,I27023,open,7823966,TFbunny,34bunny,[],2020-11-26T04:57:12+08:00,2020-11-26T04:58:01+08:00,,Bug-Report
+294,3683272,I26Y14,open,5163107,rock4you,rockp4you,[],2020-11-25T16:33:02+08:00,2020-11-25T16:33:03+08:00,,Bug-Report
+295,3676522,I26STM,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-11-24T17:36:52+08:00,2020-12-03T10:11:43+08:00,,Bug-Report
+296,3672567,I26PRR,open,8198540,xinyunfan,xinyunfan,[],2020-11-24T12:03:01+08:00,2020-11-24T12:04:13+08:00,,Requirement
+297,3669495,I26NEF,open,7347367,wangnan39,wangnan39,[],2020-11-23T20:22:49+08:00,2020-11-23T20:39:17+08:00,,RFC
+298,3663176,I26IIW,open,1102420,zouxinhua,zouxinhua,[],2020-11-23T10:29:13+08:00,2020-11-23T15:25:35+08:00,,Bug-Report
+299,3655370,I26CI2,open,7823966,TFbunny,34bunny,[],2020-11-20T23:45:54+08:00,2020-11-20T23:46:53+08:00,,Bug-Report
+300,3651964,I269VG,open,6578500,laiyongqiang,laiyongqiang,[],2020-11-20T14:42:27+08:00,2020-12-21T10:29:34+08:00,,Bug-Report
+301,3649311,I267TR,open,6574854,jjfeing,jjfeing,[],2020-11-20T09:33:23+08:00,2020-11-20T09:33:26+08:00,,Empty-Template
+302,3649137,I267OX,open,6574993,liubuyu,liubuyu,[],2020-11-20T09:13:44+08:00,2020-11-20T09:17:00+08:00,,Bug-Report
+303,3648900,I267IC,open,7823966,TFbunny,34bunny,[],2020-11-20T06:21:29+08:00,2020-11-20T06:21:30+08:00,,Bug-Report
+304,3647898,I266QI,open,7347367,wangnan39,wangnan39,[],2020-11-19T19:47:43+08:00,2020-11-19T21:05:42+08:00,,RFC
+305,3647884,I266Q4,open,7347367,wangnan39,wangnan39,[],2020-11-19T19:45:39+08:00,2020-11-19T20:54:12+08:00,,RFC
+306,3647528,I266G8,open,7762098,huangxinjing,huangxinjing,[],2020-11-19T18:48:37+08:00,2020-11-19T18:48:57+08:00,,RFC
+307,3645143,I264LZ,open,6584642,yuzhenhua666,于振华,[],2020-11-19T14:52:56+08:00,2020-12-21T10:34:29+08:00,,RFC
+308,3644792,I264C8,open,6575118,kisnwang,kisnwang,[],2020-11-19T14:22:12+08:00,2021-01-11T21:45:51+08:00,,Task-Tracking
+309,3644477,I2643H,open,7762098,huangxinjing,huangxinjing,[],2020-11-19T13:47:58+08:00,2020-11-19T13:48:27+08:00,,RFC
+310,3644068,I263S4,open,5397861,jonahlei,leiyuning,[],2020-11-19T11:56:18+08:00,2020-11-19T11:56:19+08:00,,Task-Tracking
+311,3642347,I262GB,open,6517952,youui,weiyang,[],2020-11-19T09:31:04+08:00,2020-11-19T09:59:43+08:00,,RFC
+312,3642259,I262DV,open,7346502,ziruiwu,ZiruiWu,[],2020-11-19T09:22:47+08:00,2020-11-19T09:22:59+08:00,,Empty-Template
+313,3641828,I2621W,open,7823966,TFbunny,34bunny,[],2020-11-19T01:43:10+08:00,2020-11-19T01:44:00+08:00,,Task-Tracking
+314,3636416,I25XVK,open,5475822,dz_hudong,胡冬,[],2020-11-18T11:25:39+08:00,2020-11-18T11:25:41+08:00,,Bug-Report
+315,3634448,I25WCW,open,6571795,zichun_ye,zichun_ye,[],2020-11-18T05:44:08+08:00,2020-11-26T12:29:48+08:00,,Bug-Report
+316,3633081,I25VAX,open,6574868,jojobugfree,caifubi,[],2020-11-17T19:16:37+08:00,2020-11-17T19:16:52+08:00,,RFC
+317,3630579,I25TDF,open,2178266,geekhch,何长鸿,[],2020-11-17T17:20:11+08:00,2020-11-17T17:25:31+08:00,,Requirement
+318,3627898,I25RAY,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-11-17T14:27:02+08:00,2020-12-23T17:30:51+08:00,,Bug-Report
+319,3623694,I25O26,open,7823966,TFbunny,34bunny,[],2020-11-17T06:26:27+08:00,2020-11-17T06:32:25+08:00,,Requirement
+320,3623693,I25O25,open,7823966,TFbunny,34bunny,[],2020-11-17T06:25:43+08:00,2020-11-17T06:39:11+08:00,,Requirement
+321,3623689,I25O21,open,7346502,ziruiwu,ZiruiWu,[],2020-11-17T05:24:26+08:00,2020-11-17T05:24:38+08:00,,Requirement
+322,3621978,I25MQI,open,8321864,amonakov,Alexander Monakov,[],2020-11-16T17:45:14+08:00,2020-11-16T17:45:15+08:00,,Bug-Report
+323,3620799,I25LTR,open,8310380,zjw374,zjw374,[],2020-11-16T16:22:56+08:00,2020-11-16T16:25:41+08:00,,Bug-Report
+324,3620235,I25LE3,open,6574854,jjfeing,jjfeing,[],2020-11-16T15:45:00+08:00,2020-11-16T15:45:59+08:00,,Empty-Template
+325,3619638,I25KXI,open,5584703,GreyZzzzzzXh,Xueheng Zhang,[],2020-11-16T15:05:22+08:00,2020-11-16T15:32:27+08:00,,RFC
+326,3602887,I25807,open,8105229,neoming,neoming,[],2020-11-14T18:12:01+08:00,2020-11-14T18:12:02+08:00,,Bug-Report
+327,3602801,I257XT,open,1869725,zhengtao11_admin_admin,zhengtao,[],2020-11-14T17:39:52+08:00,2020-11-14T17:39:54+08:00,,Bug-Report
+328,3593165,I250I5,open,7823966,TFbunny,34bunny,[],2020-11-13T04:17:55+08:00,2020-11-13T04:18:54+08:00,,Bug-Report
+329,3591560,I24Z9K,open,7379080,li_qi_liang,liqiliang,[],2020-11-12T17:56:42+08:00,2020-11-12T18:01:40+08:00,,Bug-Report
+330,3585858,I24UV6,open,7866623,alexcheng88,chengchunlei,[],2020-11-11T22:25:12+08:00,2020-11-11T22:25:14+08:00,,Bug-Report
+331,3577793,I24ON5,open,5475822,dz_hudong,胡冬,[],2020-11-10T18:18:04+08:00,2020-11-10T18:18:05+08:00,,Requirement
+332,3572102,I24K92,open,8038510,alexyuyue,YueYu,[],2020-11-10T09:18:34+08:00,2020-11-10T09:18:37+08:00,,Task-Tracking
+333,3571205,I24JK5,open,6575395,xulei2020,xulei,[],2020-11-09T20:44:23+08:00,2020-11-13T07:27:40+08:00,,Task-Tracking
+334,3567513,I24GPL,open,7825691,ZoeLiu12,ZoeLiu,[],2020-11-09T14:15:15+08:00,2020-11-09T14:20:18+08:00,,Bug-Report
+335,3565963,I24FIJ,open,7378970,wangdongxu6,wangdongxu6,[],2020-11-09T11:01:50+08:00,2020-12-09T11:15:44+08:00,,Bug-Report
+336,3565343,I24F1B,open,5328750,zxros10,zhutian,[],2020-11-09T10:20:08+08:00,2020-11-09T10:20:10+08:00,,Bug-Report
+337,3562975,I24D7J,open,6574970,gukecai,gukecai,[],2020-11-08T14:02:39+08:00,2020-11-08T14:05:29+08:00,,Bug-Report
+338,3559747,I24APV,open,7346502,ziruiwu,ZiruiWu,[],2020-11-07T02:55:26+08:00,2020-11-07T02:55:38+08:00,,Empty-Template
+339,3556243,I2480J,open,7862345,jianghui58,jianghui58,[],2020-11-06T14:44:40+08:00,2020-11-06T14:48:01+08:00,,RFC
+340,3552482,I24542,open,7353915,yangruoqi713,yangruoqi713,[],2020-11-05T20:42:18+08:00,2020-11-05T20:44:17+08:00,,Bug-Report
+341,3542973,I23XRX,open,8204759,liangzhibo,LiangZhibo,[],2020-11-04T15:57:17+08:00,2020-11-04T17:35:39+08:00,,RFC
+342,3537562,I23TLM,open,7996776,liu-yuanzhuo,刘元卓,[],2020-11-03T17:59:55+08:00,2020-11-03T17:59:57+08:00,,Requirement
+343,3535291,I23RUJ,open,7353920,hangangqiang,hangq,[],2020-11-03T14:42:47+08:00,2020-11-03T14:43:14+08:00,,Task-Tracking
+344,3533271,I23QAF,open,7342120,jkl_lee,JesseKLee,[],2020-11-03T10:44:54+08:00,2020-11-03T10:44:55+08:00,,Bug-Report
+345,3531531,I23OY3,open,7346502,ziruiwu,ZiruiWu,[],2020-11-03T06:02:48+08:00,2020-11-03T06:04:25+08:00,,Requirement
+346,3531117,I23OML,open,6575118,kisnwang,kisnwang,[],2020-11-02T21:33:22+08:00,2020-12-02T11:00:23+08:00,,Task-Tracking
+347,3525265,I23K41,open,6574854,jjfeing,jjfeing,[],2020-11-02T10:45:32+08:00,2020-11-02T10:47:24+08:00,,Empty-Template
+348,3520696,I23GL4,open,7917450,yanglf1121,杨林枫,[],2020-10-31T19:01:27+08:00,2020-10-31T19:01:27+08:00,,RFC
+349,3518434,I23EUA,open,7346502,ziruiwu,ZiruiWu,[],2020-10-30T23:50:47+08:00,2020-10-30T23:51:05+08:00,,Empty-Template
+350,3517175,I23DVB,open,7380253,machaostu,machaostu,[],2020-10-30T17:47:19+08:00,2020-10-30T17:47:23+08:00,,Empty-Template
+351,3516659,I23DGZ,open,7499686,woshixiaoli,woshixiaoli,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-30T16:57:22+08:00,2021-01-04T09:20:18+08:00,,Bug-Report
+352,3516389,I23D9H,open,7380253,machaostu,machaostu,[],2020-10-30T16:35:54+08:00,2020-10-30T16:35:55+08:00,,Empty-Template
+353,3515643,I23COR,open,7499686,woshixiaoli,woshixiaoli,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-30T15:31:39+08:00,2021-01-04T09:20:27+08:00,,Bug-Report
+354,3514252,I23BM4,open,6575151,linqingke,linqingke,[],2020-10-30T13:54:35+08:00,2020-10-30T13:54:37+08:00,,RFC
+355,3510653,I238U5,open,6575395,xulei2020,xulei,[],2020-10-29T22:04:58+08:00,2020-10-29T22:06:10+08:00,,Bug-Report
+356,3506300,I235H8,open,6518075,liujunzhu,liujunzhu,[],2020-10-29T16:55:10+08:00,2020-11-10T21:11:56+08:00,,RFC
+357,3505225,I234ND,open,6575395,xulei2020,xulei,[],2020-10-29T15:30:02+08:00,2020-10-29T15:31:05+08:00,,Bug-Report
+358,3500874,I231AI,open,2151589,shuzigood,吴书全,[],2020-10-28T21:34:45+08:00,2020-10-28T21:35:15+08:00,,Bug-Report
+359,3497163,I22YFF,open,6575395,xulei2020,xulei,[],2020-10-28T14:56:12+08:00,2020-10-28T14:57:12+08:00,,Bug-Report
+360,3495541,I22X6D,open,7916874,wanyiming,wanyiming,[],2020-10-28T11:20:55+08:00,2020-10-28T11:31:32+08:00,,Bug-Report
+361,3494308,I22W84,open,6575280,zhoufeng54,zhoufeng,[],2020-10-28T09:45:16+08:00,2020-10-28T09:50:58+08:00,,Empty-Template
+362,3493723,I22VRV,open,7346502,ziruiwu,ZiruiWu,[],2020-10-28T05:09:24+08:00,2020-10-28T05:09:41+08:00,,Requirement
+363,3490269,I22T3X,open,7916874,wanyiming,wanyiming,[],2020-10-27T15:11:08+08:00,2020-11-05T15:22:54+08:00,,RFC
+364,3487215,I22QR3,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-27T10:07:15+08:00,2021-01-04T09:29:17+08:00,,Bug-Report
+365,3486144,I22PXC,open,7346502,ziruiwu,ZiruiWu,[],2020-10-27T03:36:53+08:00,2020-10-27T03:37:11+08:00,,Requirement
+366,3483606,I22NYU,open,5475822,dz_hudong,胡冬,[],2020-10-26T16:41:52+08:00,2020-10-26T16:41:53+08:00,,Bug-Report
+367,3481940,I22MOK,open,6575395,xulei2020,xulei,[],2020-10-26T14:41:25+08:00,2020-10-26T14:42:16+08:00,,Bug-Report
+368,3473577,I22G89,open,7346502,ziruiwu,ZiruiWu,[],2020-10-23T22:19:03+08:00,2020-10-23T22:19:23+08:00,,Bug-Report
+369,3473082,I22FUI,open,7388798,yingjy,yingjiangyong,[],2020-10-23T19:15:27+08:00,2020-10-23T19:16:32+08:00,,Task-Tracking
+370,3327414,I1ZBG6,open,7346502,ziruiwu,ZiruiWu,[],2020-10-22T23:25:46+08:00,2020-10-22T23:25:58+08:00,,Empty-Template
+371,3325653,I1ZA39,open,6575594,liyanliu96,liyanliu96,[],2020-10-22T16:56:03+08:00,2020-10-22T16:58:08+08:00,,Task-Tracking
+372,3324821,I1Z9G5,open,6575395,xulei2020,xulei,[],2020-10-22T15:43:32+08:00,2020-10-23T11:45:31+08:00,,Bug-Report
+373,3322861,I1Z7XP,open,6557666,HidyLi,HidyLi,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-22T11:20:42+08:00,2021-01-04T09:36:17+08:00,,Bug-Report
+374,3322822,I1Z7WM,open,5706284,nj_ww,王位,[],2020-10-22T11:17:30+08:00,2020-10-22T11:17:32+08:00,,Bug-Report
+375,3322525,I1Z7OD,open,6575395,xulei2020,xulei,[],2020-10-22T10:48:23+08:00,2020-10-22T10:49:36+08:00,,Bug-Report
+376,3321332,I1Z6R8,open,7346502,ziruiwu,ZiruiWu,[],2020-10-22T04:20:10+08:00,2020-10-22T04:20:39+08:00,,Requirement
+377,3321195,I1Z6NF,open,7346502,ziruiwu,ZiruiWu,[],2020-10-21T23:40:04+08:00,2020-10-21T23:40:50+08:00,,Requirement
+378,3321005,I1Z6I5,open,6574899,ginfung,YuJianfeng,[],2020-10-21T21:56:44+08:00,2020-10-21T21:57:29+08:00,,RFC
+379,3318727,I1Z4QV,open,6575395,xulei2020,xulei,[],2020-10-21T15:58:25+08:00,2020-10-21T16:00:59+08:00,,Bug-Report
+380,3314564,I1Z1J8,open,7346502,ziruiwu,ZiruiWu,[],2020-10-21T05:56:00+08:00,2020-10-21T05:56:13+08:00,,Empty-Template
+381,3312392,I1YZUW,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-20T16:42:42+08:00,2021-01-19T20:00:56+08:00,,Bug-Report
+382,3307899,I1YWE3,open,7342128,jonwe,JonathanY,[],2020-10-20T05:57:29+08:00,2020-10-22T02:27:25+08:00,,Bug-Report
+383,3301986,I1YRTU,open,6575395,xulei2020,xulei,[],2020-10-19T10:56:55+08:00,2020-10-23T11:20:31+08:00,,Task-Tracking
+384,3296382,I1YNI6,open,7346502,ziruiwu,ZiruiWu,[],2020-10-17T02:51:04+08:00,2020-10-17T02:52:09+08:00,,Empty-Template
+385,3293881,I1YLKP,open,7839909,huangbingjian,huangbingjian,[],2020-10-16T15:49:12+08:00,2020-10-16T15:49:37+08:00,,Task-Tracking
+386,3291954,I1YK36,open,6557666,HidyLi,HidyLi,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-16T11:53:11+08:00,2021-01-04T09:36:17+08:00,,Bug-Report
+387,3291418,I1YJOA,open,6557666,HidyLi,HidyLi,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-10-16T11:07:34+08:00,2021-01-04T09:36:41+08:00,,Bug-Report
+388,3289685,I1YIC5,open,7346502,ziruiwu,ZiruiWu,[],2020-10-15T21:50:47+08:00,2020-10-15T21:57:54+08:00,,Bug-Report
+389,3283858,I1YDUA,open,6575118,kisnwang,kisnwang,[],2020-10-15T09:47:17+08:00,2021-01-06T09:21:10+08:00,,RFC
+390,3283728,I1YDQO,open,6573907,HW_KK,HW_KK,"[{'id': 58021462, 'name': 'kind/task', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/task', 'created_at': '2020-03-19T16:23:25+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-10-15T09:37:58+08:00,2020-10-15T09:40:30+08:00,,Task-Tracking
+391,3283248,I1YDDC,open,7342144,cathwong,cathwong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}, {'id': 58021462, 'name': 'kind/task', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/task', 'created_at': '2020-03-19T16:23:25+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-10-15T07:55:15+08:00,2020-12-09T04:15:52+08:00,,Task-Tracking
+392,3281745,I1YC7L,open,7386274,sanjaychan,chenzomi,[],2020-10-14T17:50:02+08:00,2020-10-14T17:50:03+08:00,,Bug-Report
+393,3275296,I1Y78G,open,7981938,liuyang_655,liuyang,[],2020-10-13T19:21:16+08:00,2020-12-10T15:48:17+08:00,,RFC
+394,3275231,I1Y76N,open,7981938,liuyang_655,liuyang,[],2020-10-13T19:12:30+08:00,2020-12-10T15:48:29+08:00,,RFC
+395,3273703,I1Y607,open,6574854,jjfeing,jjfeing,[],2020-10-13T16:25:43+08:00,2020-10-13T16:30:03+08:00,,Empty-Template
+396,3266282,I1Y0A2,open,6575282,jpc_chenjianping,chenjianping,[],2020-10-12T16:27:26+08:00,2021-02-04T10:56:53+08:00,,RFC
+397,3263739,I1XYBF,open,2151589,shuzigood,吴书全,[],2020-10-12T11:36:26+08:00,2020-10-12T14:47:58+08:00,,Bug-Report
+398,3256486,I1XSPY,open,7347217,changzherui,changzherui,[],2020-10-10T15:13:47+08:00,2021-01-04T20:49:00+08:00,,RFC
+399,3256050,I1XSDU,open,7347217,changzherui,changzherui,[],2020-10-10T14:41:00+08:00,2020-12-10T15:49:08+08:00,,RFC
+400,3254424,I1XR4O,open,7342588,wangmin0104,wangmin0104,[],2020-10-10T10:48:52+08:00,2020-10-10T10:57:12+08:00,,RFC
+401,3240166,I1XG4M,open,7363368,minara,Mina,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-10-06T05:54:33+08:00,2020-10-07T04:49:46+08:00,,RFC
+402,3237034,I1XDPM,open,7342109,lichen_101010,lichen_101010,[],2020-10-03T00:28:59+08:00,2020-10-15T16:46:18+08:00,,RFC
+403,3237020,I1XDP8,open,7342109,lichen_101010,lichen_101010,[],2020-10-02T23:58:51+08:00,2020-10-02T23:58:53+08:00,,RFC
+404,3235668,I1XCNO,open,5565035,AndersonZhang,AndersonZhang,[],2020-10-01T10:15:42+08:00,2020-10-01T10:15:44+08:00,,Bug-Report
+405,3230358,I1X8K6,open,5051581,jxfruit,fruit,[],2020-09-29T21:16:27+08:00,2020-09-29T21:16:28+08:00,,Bug-Report
+406,3229975,I1X89J,open,6575280,zhoufeng54,zhoufeng,[],2020-09-29T19:36:36+08:00,2020-09-29T19:37:04+08:00,,Empty-Template
+407,3225982,I1X56M,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-29T10:43:16+08:00,2020-10-01T02:34:11+08:00,,RFC
+408,3225885,I1X53X,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-29T10:32:27+08:00,2020-10-08T03:21:51+08:00,,RFC
+409,3225818,I1X522,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-29T10:28:20+08:00,2020-10-14T06:03:21+08:00,,RFC
+410,3224261,I1X3UT,open,8069246,weisun092,weisun092,[],2020-09-29T01:42:45+08:00,2020-10-05T07:14:15+08:00,,Bug-Report
+411,3220893,I1X199,open,6521784,chenfei52,chenfei_mindspore,[],2020-09-28T14:23:30+08:00,2020-10-12T11:30:51+08:00,,RFC
+412,3220440,I1X0WO,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-28T13:33:43+08:00,2020-09-28T13:34:50+08:00,,RFC
+413,3220403,I1X0VN,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-28T13:22:34+08:00,2020-09-28T13:33:08+08:00,,RFC
+414,3220385,I1X0V5,open,7398781,john_tzanakakis,john_tzanakakis,[],2020-09-28T13:18:38+08:00,2020-09-28T13:34:05+08:00,,RFC
+415,3211041,I1WTNL,open,7950555,meinherz,Alex,[],2020-09-26T23:41:43+08:00,2020-09-27T23:41:37+08:00,,Bug-Report
+416,3202979,I1WNFN,open,7456437,huaweib,baihuawei,[],2020-09-25T11:09:55+08:00,2020-09-25T16:13:21+08:00,,RFC
+417,3198044,I1WJMK,open,6575739,pandoublefeng,panfengfeng,[],2020-09-24T15:33:28+08:00,2020-09-25T11:05:23+08:00,,Bug-Report
+418,3193403,I1WG1N,open,2151589,shuzigood,吴书全,[],2020-09-23T21:35:46+08:00,2020-09-23T21:49:03+08:00,,Bug-Report
+419,3193292,I1WFYK,open,6584765,yuan_shen_zhou,zhouyuanshen,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 59187776, 'name': 'comp/train', 'color': 'fd6206', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/train', 'created_at': '2020-03-30T05:00:44+08:00', 'updated_at': '2021-02-05T16:40:25+08:00'}, {'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-09-23T21:04:30+08:00,2020-11-16T15:56:55+08:00,,RFC
+420,3187357,I1WBDP,open,7363072,avakh,ava,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-09-23T09:56:57+08:00,2020-09-23T09:57:38+08:00,,RFC
+421,3185552,I1W9ZK,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-09-22T20:10:05+08:00,2020-09-22T20:20:10+08:00,,RFC
+422,3185551,I1W9ZJ,open,7347367,wangnan39,wangnan39,[],2020-09-22T20:10:05+08:00,2020-12-30T10:13:29+08:00,,RFC
+423,3185031,I1W9L3,open,7499686,woshixiaoli,woshixiaoli,"[{'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-09-22T18:22:33+08:00,2021-01-04T09:20:06+08:00,,Bug-Report
+424,3182903,I1W7XZ,open,7865710,luchengthu,luchengthu,[],2020-09-22T15:10:24+08:00,2020-09-22T18:49:31+08:00,,RFC
+425,3179207,I1W53B,open,7641551,nhussain,nhussain,[],2020-09-21T23:38:55+08:00,2020-09-21T23:41:16+08:00,,Bug-Report
+426,3173646,I1W0SU,open,6571713,peixu_ren,peixu_ren,[],2020-09-21T11:07:41+08:00,2020-10-23T02:19:40+08:00,,RFC
+427,3170461,I1VYCD,open,6574868,jojobugfree,caifubi,[],2020-09-20T16:25:44+08:00,2020-09-20T16:25:46+08:00,,Bug-Report
+428,3169013,I1VX85,open,7456437,huaweib,baihuawei,[],2020-09-19T21:41:23+08:00,2020-09-22T08:27:08+08:00,,Bug-Report
+429,3166555,I1VVBV,open,6575151,linqingke,linqingke,[],2020-09-19T09:59:44+08:00,2021-01-27T11:22:55+08:00,,RFC
+430,3165812,I1VUR8,open,6575350,heleiwang,heleiwang,[],2020-09-18T20:54:40+08:00,2020-09-18T20:58:13+08:00,,Bug-Report
+431,3159087,I1VPKF,open,7807710,firejohnny,firejohnny,[],2020-09-17T21:50:13+08:00,2020-09-17T21:50:14+08:00,,Bug-Report
+432,3158998,I1VPHY,open,7456437,huaweib,baihuawei,[],2020-09-17T21:21:14+08:00,2020-09-22T19:47:18+08:00,,Bug-Report
+433,3153490,I1VL8Y,open,6571795,zichun_ye,zichun_ye,[],2020-09-17T10:19:33+08:00,2020-09-19T11:50:28+08:00,,RFC
+434,3153236,I1VL1W,open,2151589,shuzigood,吴书全,[],2020-09-17T09:58:50+08:00,2020-09-17T09:59:31+08:00,,Bug-Report
+435,3150316,I1VISS,open,7379671,xin_hui_zhou,zouxinhuai,[],2020-09-16T17:17:42+08:00,2020-11-05T19:09:50+08:00,,Bug-Report
+436,3148352,I1VHA8,open,6584654,yoonlee666,yoonlee666,[],2020-09-16T14:26:02+08:00,2020-09-16T14:26:33+08:00,,RFC
+437,3142000,I1VCDS,open,2151589,shuzigood,吴书全,[],2020-09-15T16:25:29+08:00,2020-09-28T17:01:44+08:00,,Bug-Report
+438,3139549,I1VAHP,open,7725520,erpim,Erpim,[],2020-09-15T11:50:08+08:00,2020-09-18T15:47:25+08:00,,Bug-Report
+439,3138058,I1V9CA,open,6557666,HidyLi,HidyLi,"[{'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-09-15T10:03:17+08:00,2021-01-04T09:38:50+08:00,,Bug-Report
+440,3137124,I1V8MC,open,7342114,anthonyaje,anthonyaje,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-09-15T04:56:38+08:00,2020-09-15T04:58:22+08:00,,Task-Tracking
+441,3136927,I1V8GV,open,7346502,ziruiwu,ZiruiWu,[],2020-09-15T02:35:16+08:00,2020-09-15T02:35:58+08:00,,Empty-Template
+442,3134527,I1V6M7,open,6575711,penny369,pengyanjun,"[{'id': 76119735, 'name': 'usability', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability', 'created_at': '2020-08-21T14:30:18+08:00', 'updated_at': '2021-02-05T16:42:11+08:00'}]",2020-09-14T21:10:50+08:00,2020-09-23T16:18:30+08:00,,Requirement
+443,3133392,I1V5QO,open,6560296,xiaoda_zh,Xiaoda,[],2020-09-14T19:16:32+08:00,2020-09-14T21:25:38+08:00,,RFC
+444,3133238,I1V5ME,open,2151589,shuzigood,吴书全,[],2020-09-14T19:03:13+08:00,2020-09-14T19:03:54+08:00,,Bug-Report
+445,3125000,I1UZ9K,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-09-14T09:20:00+08:00,2020-12-05T09:30:25+08:00,,Bug-Report
+446,3124981,I1UZ91,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-09-14T09:17:08+08:00,2021-01-04T09:28:03+08:00,,Bug-Report
+447,3119307,I1UUVF,open,7346502,ziruiwu,ZiruiWu,[],2020-09-11T22:57:08+08:00,2020-09-11T22:57:29+08:00,,Empty-Template
+448,3112135,I1UPC7,open,7346502,ziruiwu,ZiruiWu,[],2020-09-11T03:07:30+08:00,2020-09-11T03:07:42+08:00,,Requirement
+449,3111295,I1UOOV,open,6575395,xulei2020,xulei,[],2020-09-10T19:45:15+08:00,2020-10-15T19:02:42+08:00,,Task-Tracking
+450,3104466,I1UJF6,open,7834060,lixiaohui33,lixiaohui33,[],2020-09-09T19:13:00+08:00,2020-09-22T15:25:44+08:00,,Empty-Template
+451,3103219,I1UIGJ,open,6575280,zhoufeng54,zhoufeng,[],2020-09-09T16:32:03+08:00,2020-09-28T09:30:54+08:00,,Empty-Template
+452,3102948,I1UI90,open,7456437,huaweib,baihuawei,[],2020-09-09T16:05:13+08:00,2020-09-09T16:05:51+08:00,,Bug-Report
+453,3095723,I1UCOB,open,2151589,shuzigood,吴书全,[],2020-09-08T15:20:32+08:00,2020-09-24T20:03:11+08:00,,Bug-Report
+454,3091085,I1U93H,open,324869,dyonghan,dyonghan,"[{'id': 67387795, 'name': '0.5.0-beta', 'color': 'b0d206', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/0.5.0-beta', 'created_at': '2020-06-15T19:55:10+08:00', 'updated_at': '2021-01-13T19:28:55+08:00'}, {'id': 79561876, 'name': '1.0.0', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/1.0.0', 'created_at': '2020-09-19T16:17:33+08:00', 'updated_at': '2021-02-02T10:54:15+08:00'}]",2020-09-07T19:54:51+08:00,2021-01-15T15:02:16+08:00,,Bug-Report
+455,3090901,I1U8YD,open,6584654,yoonlee666,yoonlee666,[],2020-09-07T19:08:34+08:00,2020-09-08T15:10:16+08:00,,RFC
+456,3082233,I1U29L,open,7927149,joe__wu,joewu,[],2020-09-05T21:39:36+08:00,2020-09-05T21:42:35+08:00,,Bug-Report
+457,3079589,I1U085,open,7346502,ziruiwu,ZiruiWu,[],2020-09-05T03:08:56+08:00,2020-09-05T03:15:33+08:00,,Empty-Template
+458,3079195,I1TZX7,open,7346502,ziruiwu,ZiruiWu,[],2020-09-04T21:45:18+08:00,2020-09-04T21:47:05+08:00,,Empty-Template
+459,3077377,I1TYIP,open,6557666,HidyLi,HidyLi,"[{'id': 58020473, 'name': 'kind/docs', 'color': '1dbaae', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/docs', 'created_at': '2020-03-19T16:18:04+08:00', 'updated_at': '2021-02-05T17:28:03+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-09-04T16:25:31+08:00,2020-10-24T05:13:47+08:00,,Bug-Report
+460,3071965,I1TUCD,open,7854183,chen_ying113,yingchen,[],2020-09-03T19:02:23+08:00,2020-09-19T11:57:07+08:00,,Bug-Report
+461,3062137,I1TMRD,open,7346502,ziruiwu,ZiruiWu,[],2020-09-02T11:17:36+08:00,2020-09-02T11:27:03+08:00,,Empty-Template
+462,3055957,I1THZP,open,7917450,yanglf1121,杨林枫,[],2020-09-01T13:17:02+08:00,2020-09-01T13:17:05+08:00,,RFC
+463,3055901,I1THY5,open,7917450,yanglf1121,杨林枫,[],2020-09-01T12:50:56+08:00,2020-09-01T12:50:57+08:00,,RFC
+464,3055886,I1THXQ,open,7917450,yanglf1121,杨林枫,[],2020-09-01T12:39:42+08:00,2020-09-01T12:41:16+08:00,,Bug-Report
+465,3051096,I1TE8O,open,6575151,linqingke,linqingke,[],2020-08-31T16:24:10+08:00,2020-08-31T16:24:10+08:00,,RFC
+466,3050460,I1TDR0,open,7865710,luchengthu,luchengthu,[],2020-08-31T15:32:34+08:00,2020-08-31T15:32:35+08:00,,RFC
+467,3050452,I1TDQS,open,7865710,luchengthu,luchengthu,[],2020-08-31T15:31:52+08:00,2020-08-31T15:31:53+08:00,,RFC
+468,3050440,I1TDQG,open,7865710,luchengthu,luchengthu,[],2020-08-31T15:30:23+08:00,2020-08-31T15:30:23+08:00,,RFC
+469,3050421,I1TDPX,open,6584654,yoonlee666,yoonlee666,[],2020-08-31T15:28:59+08:00,2020-08-31T15:29:26+08:00,,RFC
+470,3043286,I1T87Q,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2020-08-29T16:46:26+08:00,2020-08-29T16:48:57+08:00,,Bug-Report
+471,3042069,I1T79X,open,7389807,jameshsu,JamesHsu,[],2020-08-29T10:44:48+08:00,2020-08-29T10:44:50+08:00,,Bug-Report
+472,3041504,I1T6U8,open,7389807,jameshsu,JamesHsu,[],2020-08-29T05:16:59+08:00,2020-08-29T05:17:02+08:00,,Bug-Report
+473,3041286,I1T6O6,open,7641551,nhussain,nhussain,[],2020-08-29T02:07:52+08:00,2020-08-29T02:07:55+08:00,,Bug-Report
+474,3039782,I1T5IE,open,7347367,wangnan39,wangnan39,"[{'id': 76119735, 'name': 'usability', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability', 'created_at': '2020-08-21T14:30:18+08:00', 'updated_at': '2021-02-05T16:42:11+08:00'}, {'id': 76126362, 'name': 'usability-api', 'color': 'febc08', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/usability-api', 'created_at': '2020-08-21T14:58:32+08:00', 'updated_at': '2021-02-04T14:44:13+08:00'}]",2020-08-28T17:29:59+08:00,2020-08-28T17:32:49+08:00,,RFC
+475,3038699,I1T4OB,open,6575151,linqingke,linqingke,[],2020-08-28T15:47:18+08:00,2020-08-28T15:47:20+08:00,,RFC
+476,3025106,I1SU6Q,open,6573901,zhouyaqiang0,zhouyaqiang0,[],2020-08-26T16:11:36+08:00,2020-08-26T16:12:07+08:00,,Requirement
+477,3022103,I1SRVB,open,6569326,ckey_dou,chengbin,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-08-26T10:37:32+08:00,2020-08-26T10:39:08+08:00,,Bug-Report
+478,3020379,I1SQJF,open,7456437,huaweib,baihuawei,[],2020-08-25T19:30:39+08:00,2020-08-25T19:31:12+08:00,,RFC
+479,3019504,I1SPV4,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-08-25T17:17:15+08:00,2021-01-04T09:27:42+08:00,,Bug-Report
+480,3017071,I1SNZJ,open,7347208,wilfchen,chenweifeng,[],2020-08-25T14:07:41+08:00,2020-08-25T14:07:53+08:00,,RFC
+481,3014339,I1SLVN,open,6557911,echo_hua,echo_hua,"[{'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-08-25T09:14:49+08:00,2021-01-04T09:27:27+08:00,,Bug-Report
+482,3013598,I1SLB2,open,7353895,cjh9368,cjh9368,[],2020-08-24T22:06:36+08:00,2020-08-24T22:06:37+08:00,,Bug-Report
+483,3002908,I1SD24,open,6568201,fary86,fary86,"[{'id': 58021462, 'name': 'kind/task', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/task', 'created_at': '2020-03-19T16:23:25+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-08-22T16:09:07+08:00,2020-12-02T14:06:05+08:00,,Task-Tracking
+484,3001757,I1SC65,open,7553800,rainyhorse,rainyhorse,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-08-22T10:00:29+08:00,2021-01-04T09:39:11+08:00,,Bug-Report
+485,3001042,I1SBMA,open,6557666,HidyLi,HidyLi,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-08-21T20:43:19+08:00,2021-01-04T09:38:50+08:00,,Bug-Report
+486,2999336,I1SAAW,open,7826182,yiquansuperman,LmYjQ,[],2020-08-21T16:32:34+08:00,2020-09-10T19:22:54+08:00,,Bug-Report
+487,2998343,I1S9JB,open,7553800,rainyhorse,rainyhorse,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-08-21T15:00:15+08:00,2021-01-04T09:39:11+08:00,,Bug-Report
+488,2992284,I1S4V0,open,6575981,hanjun996,hanjun996,[],2020-08-20T15:18:37+08:00,2020-08-20T15:20:28+08:00,,Task-Tracking
+489,2992248,I1S4U0,open,6566022,amongo,amongo,[],2020-08-20T15:16:12+08:00,2020-09-28T22:03:32+08:00,,RFC
+490,2990807,I1S3PZ,open,6566022,amongo,amongo,[],2020-08-20T11:34:46+08:00,2020-09-23T19:31:50+08:00,,RFC
+491,2990324,I1S3CK,open,979510,wanshi66,小吴小同学,[],2020-08-20T10:56:31+08:00,2020-08-20T10:56:32+08:00,,Empty-Template
+492,2989539,I1S2QR,open,1100179,null_811_4356,FinePix,[],2020-08-20T09:53:45+08:00,2020-08-20T09:54:42+08:00,,Task-Tracking
+493,2988782,I1S25Q,open,7346502,ziruiwu,ZiruiWu,[],2020-08-20T03:47:08+08:00,2020-08-20T04:14:34+08:00,,Empty-Template
+494,2980873,I1RW21,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58023172, 'name': 'comp/runtime', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/runtime', 'created_at': '2020-03-19T16:33:17+08:00', 'updated_at': '2020-12-08T19:23:51+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}]",2020-08-19T09:09:56+08:00,2020-08-19T09:16:35+08:00,,RFC
+495,2980187,I1RVIZ,open,7456437,huaweib,baihuawei,[],2020-08-18T20:57:09+08:00,2020-08-18T20:57:37+08:00,,RFC
+496,2977323,I1RTBF,open,6584681,zhongligeng,zhongligeng,[],2020-08-18T15:25:50+08:00,2020-08-18T15:27:30+08:00,,Bug-Report
+497,2973472,I1RQCG,open,7342109,lichen_101010,lichen_101010,"[{'id': 58021008, 'name': 'kind/enhancement', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/enhancement', 'created_at': '2020-03-19T16:20:44+08:00', 'updated_at': '2021-02-04T20:22:47+08:00'}]",2020-08-18T02:24:34+08:00,2020-08-18T02:27:25+08:00,,RFC
+498,2970577,I1RO41,open,7456437,huaweib,baihuawei,[],2020-08-17T16:37:28+08:00,2020-08-17T16:37:50+08:00,,RFC
+499,2967721,I1RLWP,open,6575981,hanjun996,hanjun996,[],2020-08-17T11:16:11+08:00,2020-08-17T11:40:57+08:00,,Task-Tracking
+500,2962755,I1RI2R,open,6584681,zhongligeng,zhongligeng,[],2020-08-15T14:14:55+08:00,2020-08-15T16:28:56+08:00,,Bug-Report
+501,2953135,I1RANJ,open,6575280,zhoufeng54,zhoufeng,[],2020-08-13T15:43:50+08:00,2020-08-26T20:20:27+08:00,,Empty-Template
+502,2948471,I1R71Z,open,6566022,amongo,amongo,[],2020-08-12T19:23:32+08:00,2020-09-28T22:03:05+08:00,,RFC
+503,2945953,I1R541,open,7456437,huaweib,baihuawei,[],2020-08-12T14:46:27+08:00,2020-08-12T14:46:44+08:00,,Bug-Report
+504,2945176,I1R4IG,open,7386274,sanjaychan,chenzomi,[],2020-08-12T12:55:07+08:00,2020-08-12T12:55:26+08:00,,Bug-Report
+505,2937655,I1QYPJ,open,7386274,sanjaychan,chenzomi,[],2020-08-11T11:39:52+08:00,2020-08-11T11:40:17+08:00,,Bug-Report
+506,2936436,I1QXRO,open,7363327,robingrosman,RobinGrosman,[],2020-08-11T09:41:10+08:00,2020-08-11T10:31:08+08:00,,Bug-Report
+507,2935780,I1QX9G,open,7641551,nhussain,nhussain,[],2020-08-11T01:39:30+08:00,2020-08-11T01:39:31+08:00,,Bug-Report
+508,2930530,I1QT7M,open,5727974,weiwei-w,vlne-v1,"[{'id': 67686589, 'name': 'low-hanging-fruit', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/low-hanging-fruit', 'created_at': '2020-06-18T09:01:47+08:00', 'updated_at': '2020-08-29T09:37:22+08:00'}]",2020-08-10T11:10:52+08:00,2020-10-31T14:38:11+08:00,,Requirement
+509,2930247,I1QSZR,open,7347367,wangnan39,wangnan39,"[{'id': 58024323, 'name': 'comp/api', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/api', 'created_at': '2020-03-19T16:40:35+08:00', 'updated_at': '2021-01-27T14:17:44+08:00'}]",2020-08-10T10:48:36+08:00,2020-12-30T10:16:23+08:00,,RFC
+510,2927280,I1QQPC,open,7456437,huaweib,baihuawei,[],2020-08-09T15:08:20+08:00,2020-08-12T10:45:39+08:00,,RFC
+511,2926636,I1QQ7G,open,6571795,zichun_ye,zichun_ye,[],2020-08-09T01:25:07+08:00,2020-08-09T01:25:09+08:00,,RFC
+512,2925858,I1QPLU,open,6566965,andy_wangrui,andy_wangrui,[],2020-08-08T18:31:57+08:00,2020-08-08T18:31:58+08:00,,Task-Tracking
+513,2925575,I1QPDZ,open,1766817,rmdyh,Rmdyh,[],2020-08-08T17:10:16+08:00,2020-08-08T17:11:11+08:00,,Bug-Report
+514,2905558,I1Q9XY,open,6575981,hanjun996,hanjun996,[],2020-08-05T11:13:18+08:00,2020-08-05T11:14:21+08:00,,Task-Tracking
+515,2903605,I1Q8FP,open,7892682,ffeiding,ffeiDing,[],2020-08-04T22:06:51+08:00,2020-08-04T22:09:19+08:00,,Bug-Report
+516,2902168,I1Q7BS,open,6575981,hanjun996,hanjun996,[],2020-08-04T17:27:47+08:00,2020-08-04T17:28:57+08:00,,Task-Tracking
+517,2899665,I1Q5E9,open,7725520,erpim,Erpim,[],2020-08-04T14:21:31+08:00,2020-08-04T14:21:32+08:00,,Bug-Report
+518,2891805,I1PZBX,open,7347367,wangnan39,wangnan39,[],2020-08-03T14:23:02+08:00,2020-09-23T19:42:14+08:00,,Task-Tracking
+519,2891754,I1PZAI,open,7347367,wangnan39,wangnan39,"[{'id': 58024323, 'name': 'comp/api', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/api', 'created_at': '2020-03-19T16:40:35+08:00', 'updated_at': '2021-01-27T14:17:44+08:00'}]",2020-08-03T14:16:34+08:00,2020-09-23T19:42:01+08:00,,Task-Tracking
+520,2883118,I1PSMM,open,7841534,tom__chen,tom_chen,[],2020-07-31T20:05:04+08:00,2020-07-31T20:05:05+08:00,,Bug-Report
+521,2881899,I1PROR,open,7841341,helloyesterday,Yesterday,[],2020-07-31T16:52:15+08:00,2020-09-22T15:17:48+08:00,,Requirement
+522,2879312,I1PPOW,open,6575981,hanjun996,hanjun996,[],2020-07-31T11:37:04+08:00,2020-08-04T20:11:08+08:00,,Task-Tracking
+523,2874919,I1PMAV,open,7456437,huaweib,baihuawei,[],2020-07-30T15:37:56+08:00,2020-07-31T14:48:52+08:00,,Bug-Report
+524,2874192,I1PLQO,open,7363327,robingrosman,RobinGrosman,[],2020-07-30T14:29:42+08:00,2020-07-30T16:04:57+08:00,,Bug-Report
+525,2872977,I1PKSX,open,5644189,c_34,chenhaozhe,[],2020-07-30T11:04:38+08:00,2020-07-30T11:04:40+08:00,,Task-Tracking
+526,2863388,I1PDEK,open,6575981,hanjun996,hanjun996,[],2020-07-28T17:54:32+08:00,2020-07-28T18:52:25+08:00,,Task-Tracking
+527,2857083,I1P8JF,open,7844343,guan_songsong,guansongsong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-07-27T19:43:53+08:00,2020-07-27T20:44:43+08:00,,Task-Tracking
+528,2854905,I1P6UX,open,7456437,huaweib,baihuawei,[],2020-07-27T15:55:33+08:00,2020-07-27T15:55:58+08:00,,Bug-Report
+529,2854285,I1P6DP,open,2305954,fudan_aidev,fudan_aidev,[],2020-07-27T15:01:44+08:00,2020-07-27T15:01:46+08:00,,Bug-Report
+530,2853300,I1P5MC,open,7844343,guan_songsong,guansongsong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-07-27T12:49:34+08:00,2020-07-27T13:09:31+08:00,,Task-Tracking
+531,2852862,I1P5A6,open,7825691,ZoeLiu12,ZoeLiu,[],2020-07-27T11:34:01+08:00,2020-08-17T12:37:49+08:00,,RFC
+532,2849196,I1P2GC,open,6574868,jojobugfree,caifubi,[],2020-07-26T10:16:07+08:00,2020-07-26T10:16:40+08:00,,Bug-Report
+533,2847091,I1P0TV,open,6566022,amongo,amongo,[],2020-07-25T10:37:04+08:00,2020-09-23T19:32:11+08:00,,RFC
+534,2846686,I1P0IM,open,7528684,harsh1995,Harshvardhan Gupta,[],2020-07-25T05:47:46+08:00,2020-07-28T09:39:18+08:00,,Bug-Report
+535,2846570,I1P0FE,open,7342120,jkl_lee,JesseKLee,[],2020-07-25T00:23:22+08:00,2020-07-25T01:22:43+08:00,,Bug-Report
+536,2845949,I1OZY5,open,7456437,huaweib,baihuawei,[],2020-07-24T19:17:16+08:00,2020-08-19T20:17:47+08:00,,RFC
+537,2839776,I1OV6O,open,6584654,yoonlee666,yoonlee666,[],2020-07-23T17:51:04+08:00,2020-07-23T17:52:58+08:00,,RFC
+538,2835724,I1OS24,open,6585083,sunnybeike,sunbeilei,[],2020-07-23T10:05:32+08:00,2020-07-23T10:05:33+08:00,,Task-Tracking
+539,2829971,I1ONMB,open,6573934,wangcong666,wangcong,[],2020-07-22T10:27:42+08:00,2020-07-22T10:28:04+08:00,,Bug-Report
+540,2829573,I1ONB9,open,6566022,amongo,amongo,[],2020-07-22T09:51:35+08:00,2020-09-23T19:32:25+08:00,,RFC
+541,2826320,I1OKSW,open,6574868,jojobugfree,caifubi,[],2020-07-21T15:59:59+08:00,2020-07-21T16:00:13+08:00,,RFC
+542,2819953,I1OFW1,open,7347157,joylvliang,JoyLvliang,"[{'id': 58024568, 'name': 'comp/pynative', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/pynative', 'created_at': '2020-03-19T16:42:22+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-07-20T17:12:33+08:00,2020-09-24T09:19:46+08:00,,RFC
+543,2817150,I1ODQ6,open,6578500,laiyongqiang,laiyongqiang,[],2020-07-20T11:44:00+08:00,2020-09-11T16:26:11+08:00,,RFC
+544,2814025,I1OBBD,open,5603992,ptrk64,ptrk64,[],2020-07-19T22:24:45+08:00,2020-07-19T22:48:36+08:00,,Bug-Report
+545,2808619,I1O757,open,7811393,gravitylife,彦祖,[],2020-07-17T16:32:14+08:00,2020-07-17T16:32:15+08:00,,Bug-Report
+546,2804318,I1O3TQ,open,7357963,jtnisbet,Jamie,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-07-17T03:41:48+08:00,2020-07-18T19:57:15+08:00,,Task-Tracking
+547,2802894,I1O2Q6,open,6574950,etone-chan,Etone.Chan,[],2020-07-16T17:31:48+08:00,2020-07-16T17:35:11+08:00,,RFC
+548,2802265,I1O28P,open,6575981,hanjun996,hanjun996,[],2020-07-16T16:37:31+08:00,2020-07-16T16:42:46+08:00,,Task-Tracking
+549,2799453,I1O02L,open,6574868,jojobugfree,caifubi,[],2020-07-16T11:14:19+08:00,2020-07-16T11:14:20+08:00,,RFC
+550,2797767,I1NYRR,open,7342109,lichen_101010,lichen_101010,"[{'id': 58021008, 'name': 'kind/enhancement', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/enhancement', 'created_at': '2020-03-19T16:20:44+08:00', 'updated_at': '2021-02-04T20:22:47+08:00'}]",2020-07-16T04:48:28+08:00,2020-07-16T04:49:50+08:00,,RFC
+551,2785211,I1NP2Z,open,7735776,codesausage,codesausage,[],2020-07-14T09:58:05+08:00,2020-07-14T10:47:19+08:00,,Empty-Template
+552,2784313,I1NOE1,open,7526190,xt445,xt445,[],2020-07-14T05:04:51+08:00,2020-07-14T10:40:32+08:00,,RFC
+553,2778749,I1NK3H,open,6575368,jiangzhiwen8,jiangzhiwen,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-07-13T11:06:12+08:00,2020-07-13T11:07:51+08:00,,RFC
+554,2767926,I1NBQU,open,6560296,xiaoda_zh,Xiaoda,[],2020-07-10T10:17:02+08:00,2020-07-10T15:46:01+08:00,,RFC
+555,2767150,I1NB5A,open,7520509,li_zhixi,李志熙,[],2020-07-10T00:27:34+08:00,2020-07-10T00:33:47+08:00,,Bug-Report
+556,2761058,I1N6G2,open,7641551,nhussain,nhussain,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-07-09T05:04:05+08:00,2020-07-09T05:10:58+08:00,,Bug-Report
+557,2754921,I1N1PL,open,7342114,anthonyaje,anthonyaje,[],2020-07-07T23:08:26+08:00,2020-08-20T06:25:31+08:00,,Requirement
+558,2748359,I1MWNB,open,5199073,loopyme,loopyme,[],2020-07-07T00:41:53+08:00,2020-07-07T00:41:54+08:00,,Bug-Report
+559,2734564,I1MM04,open,7596152,wonderman123,WonderMan,[],2020-07-03T17:33:08+08:00,2020-07-03T17:33:09+08:00,,Bug-Report
+560,2734471,I1MLXJ,open,7596152,wonderman123,WonderMan,[],2020-07-03T17:22:51+08:00,2020-07-03T17:22:52+08:00,,Bug-Report
+561,2734296,I1MLSO,open,7596152,wonderman123,WonderMan,[],2020-07-03T17:07:57+08:00,2020-07-03T17:07:58+08:00,,Bug-Report
+562,2725244,I1MET8,open,6575161,lianliguang,lianliguang,[],2020-07-02T09:38:54+08:00,2021-01-12T14:14:56+08:00,,RFC
+563,2725217,I1MESH,open,6575161,lianliguang,lianliguang,[],2020-07-02T09:36:42+08:00,2021-01-12T14:14:47+08:00,,RFC
+564,2725178,I1MERE,open,6575161,lianliguang,lianliguang,[],2020-07-02T09:33:23+08:00,2021-01-12T14:14:35+08:00,,RFC
+565,2720207,I1MAXB,open,6575981,hanjun996,hanjun996,[],2020-07-01T11:52:03+08:00,2020-07-01T11:55:38+08:00,,Bug-Report
+566,2711711,I1M4DB,open,7342109,lichen_101010,lichen_101010,"[{'id': 58021008, 'name': 'kind/enhancement', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/enhancement', 'created_at': '2020-03-19T16:20:44+08:00', 'updated_at': '2021-02-04T20:22:47+08:00'}]",2020-06-29T22:57:52+08:00,2020-06-30T20:06:23+08:00,,RFC
+567,2711710,I1M4DA,open,7641551,nhussain,nhussain,[],2020-06-29T22:57:05+08:00,2020-07-03T21:40:31+08:00,,Bug-Report
+568,2710874,I1M3Q2,open,6578500,laiyongqiang,laiyongqiang,"[{'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}]",2020-06-29T18:59:06+08:00,2020-09-29T10:27:00+08:00,,RFC
+569,2710750,I1M3MM,open,7541106,cheng_xiaoli,chengxiaoli,[],2020-06-29T18:36:02+08:00,2020-06-29T18:36:03+08:00,,Empty-Template
+570,2707391,I1M11B,open,7729789,yuxiangjohn,yuxiangJohn,[],2020-06-29T11:32:50+08:00,2020-06-29T11:32:51+08:00,,Empty-Template
+571,2704751,I1LYZZ,open,7729789,yuxiangjohn,yuxiangJohn,[],2020-06-28T19:34:55+08:00,2020-06-28T19:34:55+08:00,,Requirement
+572,2700816,I1LVYO,open,6564253,destinywck,Destiny,[],2020-06-28T10:58:33+08:00,2020-06-30T16:00:14+08:00,,Bug-Report
+573,2697420,I1LTCC,open,7342120,jkl_lee,JesseKLee,[],2020-06-27T01:33:25+08:00,2020-07-08T19:53:40+08:00,,Bug-Report
+574,2688384,I1LMDC,open,6584654,yoonlee666,yoonlee666,[],2020-06-23T20:40:55+08:00,2020-06-23T20:41:36+08:00,,RFC
+575,2682624,I1LHXC,open,1850005,zymaa,ZYMa,[],2020-06-23T01:52:28+08:00,2020-06-23T01:52:29+08:00,,Bug-Report
+576,2682543,I1LHV3,open,7346502,ziruiwu,ZiruiWu,[],2020-06-22T23:51:55+08:00,2020-07-01T05:50:34+08:00,,Empty-Template
+577,2678958,I1LF3I,open,6579529,hhc2020,hhc2020,"[{'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-06-22T16:22:27+08:00,2020-06-22T16:23:22+08:00,,RFC
+578,2676506,I1LD7E,open,6575739,pandoublefeng,panfengfeng,[],2020-06-22T11:22:31+08:00,2020-06-22T11:23:54+08:00,,Requirement
+579,2667538,I1L6AA,open,7691544,KingsleyZ,君羊,[],2020-06-19T14:57:17+08:00,2020-06-19T14:57:18+08:00,,Bug-Report
+580,2667506,I1L69E,open,6573934,wangcong666,wangcong,[],2020-06-19T14:53:01+08:00,2020-06-19T14:54:08+08:00,,Bug-Report
+581,2664402,I1L3V6,open,6575739,pandoublefeng,panfengfeng,[],2020-06-18T22:00:05+08:00,2020-06-19T12:34:20+08:00,,Bug-Report
+582,2659492,I1L02S,open,7363072,avakh,ava,[],2020-06-18T10:35:07+08:00,2020-06-18T10:35:08+08:00,,RFC
+583,2656123,I1KXH7,open,6575400,yanghaitao1,yanghaitao,[],2020-06-17T16:35:01+08:00,2020-06-17T16:36:11+08:00,,RFC
+584,2655847,I1KX9J,open,734519,zzqq2199,zzqq2199,[],2020-06-17T16:09:12+08:00,2020-06-17T19:51:52+08:00,,Empty-Template
+585,2647203,I1KQLF,open,6584960,gong_zi_yan,gziyan,[],2020-06-16T10:29:15+08:00,2020-09-22T14:45:06+08:00,,RFC
+586,2645802,I1KPII,open,6574868,jojobugfree,caifubi,[],2020-06-15T21:19:37+08:00,2020-06-27T10:02:08+08:00,,RFC
+587,2645350,I1KP5Y,open,6575118,kisnwang,kisnwang,[],2020-06-15T19:10:48+08:00,2020-06-15T19:11:23+08:00,,RFC
+588,2632871,I1KFJB,open,5724093,quarter3,lupengcheng,"[{'id': 67686589, 'name': 'low-hanging-fruit', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/low-hanging-fruit', 'created_at': '2020-06-18T09:01:47+08:00', 'updated_at': '2020-08-29T09:37:22+08:00'}]",2020-06-12T15:48:15+08:00,2020-06-18T09:03:05+08:00,,RFC
+589,2628743,I1KCCN,open,6575739,pandoublefeng,panfengfeng,[],2020-06-11T20:01:07+08:00,2020-06-13T21:19:59+08:00,,RFC
+590,2626829,I1KAVH,open,6573934,wangcong666,wangcong,[],2020-06-11T15:22:00+08:00,2020-06-11T15:22:15+08:00,,Bug-Report
+591,2625096,I1K9JC,open,6584709,zhangyinxia,zhangyinxia,[],2020-06-11T11:08:21+08:00,2020-06-11T11:33:13+08:00,,Task-Tracking
+592,2623782,I1K8IU,open,7346502,ziruiwu,ZiruiWu,[],2020-06-11T04:17:29+08:00,2020-06-11T04:20:47+08:00,,Empty-Template
+593,2617937,I1K40H,open,6574921,zongha,zongha,[],2020-06-10T10:02:28+08:00,2020-06-23T10:27:32+08:00,,Task-Tracking
+594,2611487,I1JZ1B,open,5644189,c_34,chenhaozhe,"[{'id': 58024395, 'name': 'comp/parallel', 'color': 'b0d206', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/parallel', 'created_at': '2020-03-19T16:41:09+08:00', 'updated_at': '2021-02-03T17:31:56+08:00'}, {'id': 59187776, 'name': 'comp/train', 'color': 'fd6206', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/train', 'created_at': '2020-03-30T05:00:44+08:00', 'updated_at': '2021-02-05T16:40:25+08:00'}, {'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-06-09T09:49:57+08:00,2020-08-19T11:06:33+08:00,,Bug-Report
+595,2575882,I1J7KA,open,6574896,dwtt2012,dengwentao,[],2020-06-02T15:37:35+08:00,2020-06-02T15:39:02+08:00,,Bug-Report
+596,2570361,I1J3AX,open,6584654,yoonlee666,yoonlee666,[],2020-06-01T17:03:17+08:00,2020-06-03T16:51:20+08:00,,RFC
+597,2564719,I1IYY7,open,2299777,aierwiki,天凉,[],2020-05-31T15:21:23+08:00,2020-05-31T15:24:37+08:00,,Bug-Report
+598,2564509,I1IYSD,open,982593,EsteinOpenCode,Estein,[],2020-05-31T13:25:06+08:00,2020-05-31T13:25:07+08:00,,Bug-Report
+599,2563555,I1IY1V,open,6575400,yanghaitao1,yanghaitao,[],2020-05-30T18:39:58+08:00,2020-05-30T18:40:54+08:00,,RFC
+600,2560754,I1IVW2,open,7494416,loveunk,loveunk,[],2020-05-29T21:14:14+08:00,2020-05-29T21:14:14+08:00,,Bug-Report
+601,2556442,I1ISKA,open,6569260,randywangze,RandyWangze,[],2020-05-29T10:34:21+08:00,2020-05-29T10:40:57+08:00,,RFC
+602,2555057,I1IRHT,open,6574868,jojobugfree,caifubi,[],2020-05-28T22:18:00+08:00,2020-05-28T22:20:10+08:00,,Bug-Report
+603,2554687,I1IR7J,open,6557666,HidyLi,HidyLi,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022173, 'name': 'device/cpu', 'color': '1dbaae', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/cpu', 'created_at': '2020-03-19T16:26:44+08:00', 'updated_at': '2021-02-05T16:40:48+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-05-28T19:58:32+08:00,2021-02-03T14:14:45+08:00,,Bug-Report
+604,2552754,I1IPPU,open,6584654,yoonlee666,yoonlee666,[],2020-05-28T16:33:11+08:00,2020-05-28T16:41:09+08:00,,RFC
+605,2552528,I1IPJK,open,7619022,kou998,kou998,[],2020-05-28T16:06:31+08:00,2020-05-28T16:06:32+08:00,,Bug-Report
+606,2550138,I1INP6,open,7619022,kou998,kou998,[],2020-05-28T10:23:26+08:00,2020-05-28T10:24:39+08:00,,Bug-Report
+607,2549516,I1IN7W,open,6575400,yanghaitao1,yanghaitao,[],2020-05-28T09:34:45+08:00,2020-05-28T14:31:39+08:00,,Bug-Report
+608,2542018,I1IHFM,open,6575739,pandoublefeng,panfengfeng,[],2020-05-26T20:15:10+08:00,2020-05-26T20:16:06+08:00,,Empty-Template
+609,2540648,I1IGDK,open,7423528,VennLian,VennLian,[],2020-05-26T16:50:16+08:00,2020-05-26T16:52:16+08:00,,RFC
+610,2536646,I1IDAE,open,7358260,hessam,Hessam,[],2020-05-26T02:01:48+08:00,2020-05-26T02:05:16+08:00,,Bug-Report
+611,2522086,I1I21Y,open,6571702,thlinh,thlinh,"[{'id': 58023509, 'name': 'comp/infer', 'color': '20c22e', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/infer', 'created_at': '2020-03-19T16:35:31+08:00', 'updated_at': '2021-01-30T17:31:49+08:00'}, {'id': 59187557, 'name': 'comp/parser', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/parser', 'created_at': '2020-03-30T03:25:41+08:00', 'updated_at': '2021-02-01T15:11:39+08:00'}, {'id': 58021008, 'name': 'kind/enhancement', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/enhancement', 'created_at': '2020-03-19T16:20:44+08:00', 'updated_at': '2021-02-04T20:22:47+08:00'}]",2020-05-22T12:00:51+08:00,2020-06-02T10:49:39+08:00,,RFC
+612,2520129,I1I0JL,open,7346502,ziruiwu,ZiruiWu,[],2020-05-22T02:49:29+08:00,2020-05-22T02:51:51+08:00,,Empty-Template
+613,2510093,I1HSST,open,6584654,yoonlee666,yoonlee666,[],2020-05-20T15:09:12+08:00,2020-05-21T17:27:42+08:00,,RFC
+614,2503665,I1HNU9,open,6557666,HidyLi,HidyLi,"[{'id': 58021213, 'name': 'kind/bug', 'color': 'ec0019', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/bug', 'created_at': '2020-03-19T16:22:05+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58022108, 'name': 'device/gpu', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/gpu', 'created_at': '2020-03-19T16:26:25+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}, {'id': 58024753, 'name': 'stat/RFC', 'color': 'f1009a', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/stat/RFC', 'created_at': '2020-03-19T16:43:53+08:00', 'updated_at': '2021-02-04T10:22:52+08:00'}]",2020-05-19T15:10:49+08:00,2021-01-04T09:38:49+08:00,,Bug-Report
+615,2495361,I1HHFL,open,6574868,jojobugfree,caifubi,[],2020-05-18T11:36:24+08:00,2020-05-18T11:40:10+08:00,,RFC
+616,2472473,I1GZRT,open,6574896,dwtt2012,dengwentao,[],2020-05-13T09:51:55+08:00,2020-05-13T09:53:05+08:00,,Bug-Report
+617,2460288,I1GQDC,open,1547209,xianshunw,xianshunw,[],2020-05-10T23:18:18+08:00,2020-05-10T23:18:19+08:00,,RFC
+618,2459310,I1GPM6,open,6570671,wenkai_dist,wenkai,[],2020-05-10T11:28:04+08:00,2020-05-10T11:28:16+08:00,,Empty-Template
+619,2459307,I1GPM3,open,6570671,wenkai_dist,wenkai,[],2020-05-10T11:25:49+08:00,2020-05-10T11:26:01+08:00,,Empty-Template
+620,2447676,I1GGN0,open,6571739,giancarlo,Giancarlo,[],2020-05-08T00:42:10+08:00,2020-06-03T05:31:45+08:00,,RFC
+621,2444773,I1GEED,open,7347367,wangnan39,wangnan39,[],2020-05-07T14:25:34+08:00,2020-09-16T15:19:02+08:00,,Bug-Report
+622,2430809,I1G3MH,open,7342144,cathwong,cathwong,"[{'id': 58023093, 'name': 'comp/data', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/data', 'created_at': '2020-03-19T16:32:45+08:00', 'updated_at': '2021-02-06T07:00:20+08:00'}]",2020-05-02T01:59:22+08:00,2020-09-29T03:21:02+08:00,,Bug-Report
+623,2428234,I1G1MY,open,6574868,jojobugfree,caifubi,[],2020-04-30T15:40:19+08:00,2020-04-30T15:41:41+08:00,,RFC
+624,2427085,I1G0R1,open,5512830,ninn55,ninn55,[],2020-04-30T11:50:42+08:00,2020-04-30T14:17:45+08:00,,Bug-Report
+625,2419313,I1FUR5,open,6570671,wenkai_dist,wenkai,[],2020-04-28T21:23:45+08:00,2020-04-28T21:23:56+08:00,,Task-Tracking
+626,2419105,I1FULD,open,6575002,guoqi1024,guoqi,[],2020-04-28T19:40:13+08:00,2020-04-28T20:59:50+08:00,,Empty-Template
+627,2414504,I1FR1K,open,7342111,ervinzhang,章一智,[],2020-04-27T23:45:17+08:00,2020-06-26T02:20:12+08:00,,RFC
+628,2410313,I1FNT5,open,7347208,wilfchen,chenweifeng,[],2020-04-27T10:45:14+08:00,2020-07-03T14:14:24+08:00,,RFC
+629,2409041,I1FMTT,open,7346502,ziruiwu,ZiruiWu,[],2020-04-26T22:11:38+08:00,2020-04-26T22:13:47+08:00,,Bug-Report
+630,2405269,I1FJX1,open,6574868,jojobugfree,caifubi,"[{'id': 58024431, 'name': 'comp/device', 'color': '1083d6', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/device', 'created_at': '2020-03-19T16:41:25+08:00', 'updated_at': '2020-12-10T20:46:56+08:00'}, {'id': 58023172, 'name': 'comp/runtime', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/runtime', 'created_at': '2020-03-19T16:33:17+08:00', 'updated_at': '2020-12-08T19:23:51+08:00'}, {'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}]",2020-04-26T10:04:50+08:00,2020-04-26T10:05:50+08:00,,RFC
+631,2402530,I1FHSY,open,7362853,wuhaiwei_framwork,wuhaiwei,[],2020-04-24T22:57:51+08:00,2020-04-24T22:57:53+08:00,,Bug-Report
+632,2393109,I1FAJ9,open,5554527,leonwanghui,leonwanghui,[],2020-04-23T10:35:09+08:00,2020-04-23T10:35:10+08:00,,Bug-Report
+633,2386600,I1F5IG,open,7346502,ziruiwu,ZiruiWu,[],2020-04-22T01:30:02+08:00,2020-04-22T01:33:53+08:00,,Task-Tracking
+634,2374656,I1EWAO,open,2305954,fudan_aidev,fudan_aidev,[],2020-04-19T09:10:59+08:00,2020-04-19T09:14:49+08:00,,Empty-Template
+635,2373550,I1EVFY,open,6584654,yoonlee666,yoonlee666,"[{'id': 58024345, 'name': 'comp/example', 'color': '8c6e63', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/comp/example', 'created_at': '2020-03-19T16:40:50+08:00', 'updated_at': '2021-01-19T09:30:20+08:00'}]",2020-04-18T16:06:53+08:00,2020-06-09T17:23:36+08:00,,RFC
+636,2372896,I1EUXS,open,6571706,kaitingwang,kaitingwang,[],2020-04-18T12:16:06+08:00,2020-05-13T01:38:01+08:00,,RFC
+637,2372268,I1EUGC,open,6571706,kaitingwang,kaitingwang,[],2020-04-18T06:49:32+08:00,2020-05-08T05:09:05+08:00,,Bug-Report
+638,2371862,I1EU52,open,7342754,mamba_ni,mamba_ni,[],2020-04-17T21:07:56+08:00,2020-04-17T21:07:57+08:00,,Bug-Report
+639,2371647,I1ETZ3,open,6517995,hanyuanai,yuanhan,"[{'id': 58022151, 'name': 'device/ascend', 'color': 'b000cf', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/device/ascend', 'created_at': '2020-03-19T16:26:34+08:00', 'updated_at': '2021-02-05T16:40:22+08:00'}, {'id': 58020586, 'name': 'kind/feature', 'color': '6a06d1', 'repository_id': 5439905, 'url': 'https://gitee.com/api/v5/enterprises/mind_spore/labels/kind/feature', 'created_at': '2020-03-19T16:18:31+08:00', 'updated_at': '2021-02-05T17:06:03+08:00'}]",2020-04-17T19:26:13+08:00,2020-04-22T11:17:40+08:00,2020-04-17T20:25:09+08:00,RFC
