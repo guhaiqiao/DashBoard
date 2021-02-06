@@ -16,11 +16,20 @@ def get_contributor_issue_open_number(owner, repo, contributor):
     count = [x[5] == contributor for x in data.values].count(True)
     return count
 
-def get_all_contributors_issue_open_number(owner, repo):
+def get_contributor_issue_involve_number(owner, repo, contributor):
+    data = pd.read_csv(f'data/issues_with_reviewers.csv')
+    count = [x[4] == contributor for x in data.values].count(True)
+    return count
+
+def get_all_contributors_issue_involve(owner, repo):
     data = pd.DataFrame()
     for contributor in get_contributors(owner, repo):
-        data = data.append([{'contributor': contributor, 'issues': get_contributor_issue_open_number(owner, repo, contributor)}], ignore_index=True)
-    data.to_csv('data/issue_open_number.csv')
+        data = data.append([{
+            'contributor': contributor, 
+            'open_issue_number': get_contributor_issue_open_number(owner, repo, contributor),
+            'discussion_number':get_contributor_issue_involve_number(owner, repo, contributor)
+            }], ignore_index=True)
+    data.to_csv('data/contribution.csv')
 
 if __name__ == '__main__':
     owner = 'mindspore'
