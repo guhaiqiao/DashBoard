@@ -34,4 +34,4 @@ def get_all_contributors_issue_involve(owner, repo):
 if __name__ == '__main__':
     owner = 'mindspore'
     repo = 'mindspore'
-    get_all_contributors_issue_open_number(owner, repo)
+    get_all_contributors_issue_involve(owner, repo)

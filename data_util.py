@@ -50,6 +50,38 @@ def get_issues(owner, repo, state='open'):
     print('ok， now begin to write')
     data.to_csv(f"data/{owner}-{repo}-{type}.csv", encoding='utf8')
 
+def get_issue_reviewers(owner, repos):
+    s = requests.session()
+    s.keep_alive = False
+    s.auth = ('', '')
+    access_token = '4e0e0f9ce494043609a20f163f7b4934'
+    request_url = f'https://gitee.com/api/v5/repos/{owner}/{repo}/issues/comments?access_token={access_token}&sort=created&direction=asc&page=1&per_page=100'
+    response = s.get(request_url)
+    pages = getTotalPages(response.headers)
+    data = pd.DataFrame()
+    for page in range(1, pages):
+        request_url = f'https://gitee.com/api/v5/repos/{owner}/{repo}/issues/comments?access_token={access_token}&sort=created&direction=asc&page={page}&per_page=100'
+        response = s.get(request_url)
+        contents = json.loads(response.text)
+        for content in contents:
+            try:
+                data = data.append([{
+                    'issueNumber': content['target']['issue']['number'],
+                    'reviewerId': content['user']['id'],
+                    'reviewerlogin': content['user']['login'],
+                    'reviewername': content['user']['name'],
+                    'createTimestamp': content['created_at'],
+                    'updateTimestamp': content['updated_at'],
+                }], ignore_index=True)
+            except:
+                print(content, page)
+        print(len(data))
+    print(data.head(5))
+    print('ok， now begin to write')
+    data.to_csv(f"data/issues_with_reviewers.csv", encoding='utf8')
+
+
+    
 def get_contributors(owner, repo):
     s = requests.session()
     s.keep_alive = False
@@ -66,6 +98,7 @@ def get_contributors(owner, repo):
 if __name__ == '__main__':
     owner = 'mindspore'
     repo = 'mindspore'
-    get_issues(owner, repo)
-    get_contributors(owner, repo)
+    # get_issues(owner, repo)
+    # get_contributors(owner, repo)
+    get_issue_reviewers(owner, repo)
  
