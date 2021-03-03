@@ -1,2 +1,8 @@
 __pycache__
 .vscode
+.ipynb_checkpoints
+user.bak
+user.dat
+user.dir
+test.json
+nohup.out
